@@ -1,0 +1,30 @@
+MGIMO University|Russia|Moscow|350|6.5|58|85|3.5/5.0|6000|8000|mgimo.ru|approx
+Bauman Moscow State Technical University|Russia|Moscow|300|6.0|50|75|3.0/5.0|3000|6000|bmstu.ru|verified
+ITMO University|Russia|Saint Petersburg|300|6.5|58|85|3.5/5.0|4000|8000|itmo.ru|approx
+Kazan Federal University|Russia|Kazan|400|6.0|53|80|3.0/5.0|2500|5000|kpfu.ru|approx
+Novosibirsk State University|Russia|Novosibirsk|300|6.5|58|80|3.5/5.0|2500|5000|nsu.ru|approx
+National Research Tomsk State University|Russia|Tomsk|320|6.5|58|80|3.5/5.0|2500|4500|tsu.ru|approx
+Ural Federal University|Russia|Yekaterinburg|450|6.0|53|80|3.0/5.0|2500|5000|urfu.ru|approx
+National Research Lobachevsky State University of Nizhny Novgorod|Russia|Nizhny Novgorod|500|6.0|53|75|3.0/5.0|2000|4000|unn.ru|approx
+Sechenov First Moscow State Medical University|Russia|Moscow|450|6.5|58|85|3.5/5.0|4000|7000|sechenov.ru|approx
+Peoples Friendship University of Russia|Russia|Moscow|300|6.0|53|80|3.0/5.0|3500|6000|rudn.ru|approx
+Peter the Great St Petersburg Polytechnic University|Russia|Saint Petersburg|400|6.0|53|80|3.0/5.0|3000|6000|spbstu.ru|approx
+Plekhanov Russian University of Economics|Russia|Moscow|500|6.5|58|85|3.5/5.0|3000|5500|rea.ru|approx
+Financial University under the Government of the Russian Federation|Russia|Moscow|600|6.0|53|80|3.0/5.0|4000|6000|fa.ru|approx
+Herzen State Pedagogical University|Russia|Saint Petersburg||6.0|50|75|3.0/5.0|2500|4500|herzen.spb.ru|approx
+National University of Science and Technology MISIS|Russia|Moscow|400|6.0|53|80|3.0/5.0|3000|6000|misis.ru|approx
+National University of Kyiv-Mohyla Academy|Ukraine|Kyiv||6.5|58|85|3.5/5.0|2000|4000|ukma.edu.ua|verified
+Lviv Polytechnic National University|Ukraine|Lviv|800|6.0|53|80|3.0/5.0|2000|4000|lpnu.ua|approx
+V N Karazin Kharkiv National University|Ukraine|Kharkiv|500|6.0|53|80|3.0/5.0|2000|3500|karazin.ua|approx
+Sumy State University|Ukraine|Sumy|700|6.0|50|75|3.0/5.0|1500|3000|sumdu.edu.ua|approx
+Yuriy Fedkovych Chernivtsi National University|Ukraine|Chernivtsi||6.0|50|75|3.0/5.0|1500|3000|chnu.edu.ua|approx
+Odesa I I Mechnikov National University|Ukraine|Odesa|800|6.0|50|75|3.0/5.0|1800|3500|onu.edu.ua|approx
+Ukrainian Catholic University|Ukraine|Lviv||6.5|58|85|3.5/5.0|2500|4500|ucu.edu.ua|approx
+Petro Mohyla Black Sea National University|Ukraine|Mykolaiv||6.0|50|75|3.0/5.0|1500|3000|chmnu.edu.ua|approx
+Vasyl Stus Donetsk National University|Ukraine|Vinnytsia||6.0|50|75|3.0/5.0|1500|3000|donnu.edu.ua|approx
+Dnipro University of Technology|Ukraine|Dnipro||6.0|50|75|3.0/5.0|1500|3000|ntu.dp.ua|approx
+Belarusian State University of Informatics and Radioelectronics|Belarus|Minsk|800|6.0|50|75|3.5/5.0|2500|4500|bsuir.by|verified
+Belarusian State Economic University|Belarus|Minsk||6.0|50|75|3.0/5.0|2000|4000|bseu.by|approx
+Vitebsk State Medical University|Belarus|Vitebsk||6.0|50|75|3.5/5.0|3000|5000|vsmu.by|approx
+Francisk Skorina Gomel State University|Belarus|Gomel||6.0|50|75|3.0/5.0|2000|3500|gsu.by|approx
+Grodno State Medical University|Belarus|Grodno||6.0|50|75|3.5/5.0|3000|5000|grsmu.by|approx

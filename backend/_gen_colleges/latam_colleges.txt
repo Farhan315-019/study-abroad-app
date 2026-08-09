@@ -1,0 +1,25 @@
+Instituto Tecnológico de Monterrey|Mexico|Monterrey||6.0|50|71|3.0/4.0|7000|14000|tec.mx|verified
+Universidad Tecnológica de México|Mexico|Mexico City||5.5|43|61|2.5/4.0|3500|6000|unitec.mx|verified
+Instituto Politécnico Nacional|Mexico|Mexico City||5.5|43|61|2.5/4.0|3000|5000|ipn.mx|verified
+Universidad Tecnológica de Tijuana|Mexico|Tijuana||5.5|43|61|2.5/4.0|2500|4500|uttijuana.edu.mx|approx
+Instituto Tecnológico y de Estudios Superiores de Occidente|Mexico|Guadalajara||6.0|50|71|3.0/4.0|6000|10000|iteso.mx|verified
+Instituto Tecnológico de Buenos Aires|Argentina|Buenos Aires||6.0|50|71|3.0/4.0|6000|9000|itba.edu.ar|verified
+Universidad Argentina de la Empresa|Argentina|Buenos Aires||5.5|43|61|2.5/4.0|4000|7000|uade.edu.ar|verified
+Universidad Tecnológica Nacional|Argentina|Buenos Aires||5.5|43|61|2.5/4.0|2000|3500|utn.edu.ar|verified
+ORT Argentina|Argentina|Buenos Aires||5.5|43|61|2.5/4.0|3500|6000|ort.edu.ar|approx
+INACAP|Chile|Santiago||6.0|50|71|2.5/4.0|4000|7000|inacap.cl|approx
+Duoc UC|Chile|Santiago||5.5|43|61|2.5/4.0|3500|6000|duoc.cl|verified
+Universidad Técnica Federico Santa María|Chile|Valparaíso||6.0|50|71|3.0/4.0|5000|8000|usm.cl|verified
+Instituto Profesional AIEP|Chile|Santiago||5.5|43|61|2.5/4.0|3000|5000|aiep.cl|approx
+Bauman Moscow State Technical University|Russia|Moscow||6.0|50|71|3.0/4.0|3000|5000|bmstu.ru|verified
+Moscow State Technological University STANKIN|Russia|Moscow||5.5|43|61|2.5/4.0|2500|4000|stankin.ru|verified
+Kazan National Research Technological University|Russia|Kazan||5.5|43|61|2.5/4.0|2000|3500|knrtu.ru|approx
+Moscow College of Business|Russia|Moscow||5.5|43|61|2.5/4.0|2000|3500|mcob.ru|approx
+Kyiv National University of Trade and Economics College|Ukraine|Kyiv||5.5|43|61|2.5/4.0|1500|3000|knute.edu.ua|approx
+National Technical University Kharkiv Polytechnic Institute|Ukraine|Kharkiv||6.0|50|71|3.0/4.0|2000|3500|kpi.kharkov.ua|verified
+Lviv Polytechnic National University|Ukraine|Lviv||6.0|50|71|3.0/4.0|2000|3500|lpnu.ua|verified
+Odesa Polytechnic National University|Ukraine|Odesa||5.5|43|61|2.5/4.0|1800|3000|opu.ua|approx
+Georgian Technical University|Georgia|Tbilisi||5.5|43|61|2.5/4.0|2000|3500|gtu.ge|verified
+Caucasus University|Georgia|Tbilisi||6.0|50|71|3.0/4.0|3000|5000|cu.edu.ge|approx
+Azerbaijan State Oil and Industry University|Azerbaijan|Baku||5.5|43|61|2.5/4.0|1500|3000|asoiu.edu.az|verified
+Azerbaijan Technical University|Azerbaijan|Baku||5.5|43|61|2.5/4.0|1500|2800|aztu.edu.az|approx

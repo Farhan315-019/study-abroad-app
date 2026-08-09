@@ -1,0 +1,1280 @@
+Hellenic College of Noah|Greece|Macedonia||||||||noah.edu.gr|approx
+Universidade Comunitária da Região de Chapecó - Unochapecó|Brazil|||||||||unochapeco.edu.br|approx
+Universidad Técnica Federico Santa María|Chile|||||||||usm.cl|approx
+Académie d'Aix-Marseille|France|||||||||ac-aix-marseille.fr|approx
+DAV Institute of Engineering & Technology|India|Punjab||||||||davietjal.org|approx
+Columbia College (SC)|USA|||||||||columbiasc.edu|approx
+Claremont Graduate University|USA|||||||||cgu.edu|approx
+Brandman University|USA|||||||||brandman.edu|approx
+Trident University|USA|||||||||trident.edu|approx
+Utah Valley University|USA|Utah||||||||uvu.edu|approx
+International Technological University|USA|||||||||itu.edu|approx
+Seattle Colleges|USA|||||||||seattlecolleges.edu|approx
+Marine Biological Laboratory|USA|||||||||mbl.edu|approx
+Indian River State College|USA|||||||||irsc.edu|approx
+Lander University|USA|||||||||lander.edu|approx
+Pasco-Hernando State College|USA|||||||||phsc.edu|approx
+Robert Morris University Illinois|USA|||||||||robertmorris.edu|approx
+Lynn University|USA|||||||||lynn.edu|approx
+Full Sail University|USA|||||||||fullsail.edu|approx
+Stratford University|USA|||||||||stratford.edu|approx
+Air Force Institute of Technology|USA|||||||||afit.edu|approx
+Allentown College of Saint Francis de Sales|USA|||||||||allencol.edu|approx
+Andrews University|USA|||||||||andrews.edu|approx
+Aquinas College|USA|||||||||aquinas.edu|approx
+Assumption College|USA|||||||||assumption.edu|approx
+Austin College|USA|||||||||austincollege.edu|approx
+Ball State University|USA|||||||||bsu.edu|approx
+Bellevue University|USA|||||||||bellevue.edu|approx
+Berklee College of Music|USA|||||||||berklee.edu|approx
+Bluffton College|USA|||||||||bluffton.edu|approx
+Bowling Green State University|USA|||||||||bgsu.edu|approx
+Brigham Young University Hawaii|USA|||||||||byuh.edu|approx
+California Coast University|USA|||||||||calcoast.edu|approx
+California State University, Dominguez Hills|USA|||||||||csudh.edu|approx
+California State University, Sacramento|USA|||||||||csus.edu|approx
+Campbellsville College|USA|||||||||campbellsville.edu|approx
+Carroll College|USA|||||||||carroll.edu|approx
+Centenary College of Louisiana|USA|||||||||centenary.edu|approx
+Champlain College|USA|||||||||champlain.edu|approx
+Christopher Newport University|USA|||||||||cnu.edu|approx
+Clark University|USA|||||||||clarku.edu|approx
+Coker College|USA|||||||||coker.edu|approx
+College of Saint Rose|USA|||||||||strose.edu|approx
+Colorado College|USA|||||||||coloradocollege.edu|approx
+Columbia Union College|USA|||||||||cuc.edu|approx
+Connecticut State University System|USA|||||||||ct.edu|approx
+Curry College|USA|||||||||curry.edu|approx
+Dartmouth College|USA|||||||||dartmouth.edu|approx
+DePaul University|USA|||||||||depaul.edu|approx
+Dordt College|USA|||||||||dordt.edu|approx
+East Carolina University|USA|||||||||ecu.edu|approx
+Eastern Oregon State College|USA|||||||||eou.edu|approx
+Elmhurst College|USA|||||||||elmhurst.edu|approx
+Erie Community College|USA|||||||||ecc.edu|approx
+Fielding Institute|USA|||||||||fielding.edu|approx
+Florida State University|USA|||||||||fsu.edu|approx
+Franklin University|USA|||||||||franklin.edu|approx
+Gallaudet University|USA|||||||||gallaudet.edu|approx
+Georgia Institute of Technology|USA|||||||||gatech.edu|approx
+Goldey-Beacom College|USA|||||||||gbc.edu|approx
+Greenleaf University|USA|||||||||greenleaf.edu|approx
+Hampshire College|USA|||||||||hampshire.edu|approx
+Haskell Indian Nations University|USA|||||||||haskell.edu|approx
+Hillsdale College|USA|||||||||hillsdale.edu|approx
+Howard University|USA|||||||||howard.edu|approx
+Illinois State University|USA|||||||||illinoisstate.edu|approx
+Indiana University/Purdue University at Fort Wayne|USA|||||||||ipfw.edu|approx
+Irvine Valley College|USA|||||||||ivc.edu|approx
+Johns Hopkins University|USA|||||||||jh.edu|approx
+Kalamazoo College|USA|||||||||kzoo.edu|approx
+Kentucky Community & Technical College System|USA|||||||||kctcs.edu|approx
+Lake Forest College|USA|||||||||lfc.edu|approx
+Lawrence Technological University|USA|||||||||ltu.edu|approx
+Lewis & Clark College|USA|||||||||lclark.edu|approx
+Long Island University|USA|||||||||liunet.edu|approx
+Loyola College|USA|||||||||loyola.edu|approx
+Lyon College|USA|||||||||lyon.edu|approx
+Marlboro College|USA|||||||||marlboro.edu|approx
+McDaniel College|USA|||||||||mcdaniel.edu|approx
+Mercyhurst University|USA|Pennsylvania||||||||mercyhurst.edu|approx
+Miami University of Ohio|USA|||||||||miamioh.edu|approx
+Millersville University of Pennsylvania|USA|Pennsylvania||||||||millersville.edu|approx
+Minot State University|USA|||||||||minotstateu.edu|approx
+Monmouth College|USA|||||||||monmouthcollege.edu|approx
+Montreat College|USA|||||||||montreat.edu|approx
+Mount Union College|USA|||||||||muc.edu|approx
+Naval Postgraduate School|USA|||||||||nps.edu|approx
+New Mexico Highlands University|USA|||||||||nmhu.edu|approx
+North American University|USA|||||||||na.edu|approx
+Northeastern Louisiana University|USA|||||||||nlu.edu|approx
+Northland College|USA|||||||||northland.edu|approx
+Nova Southeastern University|USA|||||||||nova.edu|approx
+Ohio University|USA|||||||||ohio.edu|approx
+Oregon Graduate Institute of Science and Technology|USA|||||||||ogi.edu|approx
+Pacific Union College|USA|||||||||puc.edu|approx
+Pennsylvania State University|USA|Pennsylvania||||||||psu.edu|approx
+Phillips University|USA|||||||||phillips.edu|approx
+Portland Community College|USA|||||||||pcc.edu|approx
+Purdue Global University|USA|||||||||purdueglobal.edu|approx
+Ramapo College|USA|||||||||ramapo.edu|approx
+Rhodes College|USA|||||||||rhodes.edu|approx
+Rochester Institute of Technology|USA|||||||||rit.edu|approx
+Rose-Hulman Institute of Technology|USA|||||||||rose-hulman.edu|approx
+Saint Edward's University|USA|||||||||stedwards.edu|approx
+Saint Mary's College (IN)|USA|||||||||saintmarys.edu|approx
+Salish Kootenai College|USA|||||||||skc.edu|approx
+School of the Art Institute of Chicago|USA|||||||||saic.edu|approx
+Shippensburg University of Pennsylvania|USA|Pennsylvania||||||||ship.edu|approx
+Smith College|USA|||||||||smith.edu|approx
+Southern Connecticut State University|USA|||||||||southernct.edu|approx
+Southern Utah University|USA|||||||||suu.edu|approx
+Southwest Texas State University|USA|||||||||swt.edu|approx
+State University of New York at Binghamton|USA|||||||||binghamton.edu|approx
+State University of New York College at Brockport|USA|||||||||brockport.edu|approx
+State University of New York College of Technology at Alfred|USA|||||||||alfredtech.edu|approx
+St. John's College - Annapolis|USA|||||||||sjca.edu|approx
+Strayer College|USA|||||||||strayer.edu|approx
+Syracuse University|USA|||||||||syr.edu|approx
+Texas A&M International University|USA|||||||||tamiu.edu|approx
+Texas Tech University|USA|||||||||ttu.edu|approx
+Thomas More College|USA|||||||||thomasmore.edu|approx
+Trinity University|USA|||||||||trinity.edu|approx
+Union College|USA|||||||||union.edu|approx
+University of Advancing Technology|USA|||||||||uat.edu|approx
+University of Arizona|USA|||||||||arizona.edu|approx
+University of California, Berkeley|USA|||||||||berkeley.edu|approx
+University of California, San Francisco|USA|||||||||ucsf.edu|approx
+University of Chicago|USA|||||||||uchicago.edu|approx
+University of Dayton|USA|||||||||udayton.edu|approx
+University of Great Falls|USA|||||||||ugf.edu|approx
+University of Illinois Springfield|USA|||||||||uis.edu|approx
+University of Louisiana at Lafeyette|USA|||||||||louisiana.edu|approx
+University of Maine System|USA|||||||||maine.edu|approx
+University of Massachusetts at Dartmouth|USA|||||||||umassd.edu|approx
+University of Minnesota - Duluth|USA|||||||||d.umn.edu|approx
+University of Nebraska, Kearney|USA|||||||||unk.edu|approx
+University of New Mexico|USA|||||||||unm.edu|approx
+University of Northern Colorado|USA|||||||||unco.edu|approx
+University of Pennsylvania|USA|Pennsylvania||||||||upenn.edu|approx
+University of Redlands|USA|||||||||uor.edu|approx
+University of Science & Arts of Oklahoma|USA|||||||||usao.edu|approx
+University of Southern California|USA|||||||||usc.edu|approx
+University of Tennessee, Knoxville|USA|||||||||utk.edu|approx
+University of Texas at Tyler|USA|||||||||uttyler.edu|approx
+University of the Ozarks|USA|||||||||ozarks.edu|approx
+University of West Alabama|USA|||||||||westal.edu|approx
+University of Wisconsin - Parkside|USA|||||||||uwp.edu|approx
+University of Wyoming|USA|||||||||uwyo.edu|approx
+Vance-Granville Community College|USA|||||||||vgcc.edu|approx
+Virginia Intermont College|USA|||||||||vic.edu|approx
+Walla Walla University|USA|Washington||||||||wallawalla.edu|approx
+Washington State University|USA|||||||||wsu.edu|approx
+Wellesley College|USA|||||||||wellesley.edu|approx
+Western Connecticut State University|USA|||||||||wcsu.edu|approx
+Western State Colorado University|USA|||||||||western.edu|approx
+Westminster Theological Seminary|USA|||||||||wts.edu|approx
+Whitman College|USA|||||||||whitman.edu|approx
+William Howard Taft University|USA|||||||||taftu.edu|approx
+Winona State University|USA|||||||||winona.edu|approx
+Yale University|USA|||||||||yale.edu|approx
+Badakhshan University|Afghanistan|||||||||badakhshan.edu.af|approx
+Faryab Higher Education Institute|Afghanistan|||||||||faryab.edu.af|approx
+Kardan University|Afghanistan|||||||||kardan.edu.af|approx
+Maryam Institute of Higher Education|Afghanistan|||||||||maryam.edu.af|approx
+Sadat Institute of Higher Education|Afghanistan|||||||||sadat.edu.af|approx
+American University of Tirana|Albania|||||||||uat.edu.al|approx
+University of New York Tirana|Albania|||||||||unyt.edu.al|approx
+Université d'Alger 3|Algeria|||||||||univ-alger3.dz|approx
+Universite des Sciences Islamiques de Constantine|Algeria|||||||||univ-emir.dz|approx
+Université de Saida|Algeria|||||||||univ-saida.dz|approx
+Université des Sciences et de la Technologie Houari Boumediène|Algeria|||||||||usthb.dz|approx
+Universidade Metropolitana de Angola|Angola|||||||||unimetroangola.com|approx
+Instituto de Enseñanza Superior del Ejército|Argentina|Ciudad Autónoma de Buenos Aires||||||||iese.edu.ar|approx
+Universidad Nacional de Mar del Plata|Argentina|Buenos Aires||||||||mdp.edu.ar|approx
+Universidad Blas Pascal|Argentina|Ciudad Autónoma de Buenos Aires||||||||ubp.edu.ar|approx
+Universidad Champagnat|Argentina|||||||||uch.edu.ar|approx
+Universidad de la Marina Mercante|Argentina|||||||||udemm.edu.ar|approx
+Universidad Nacional de Misiones|Argentina|Misiones||||||||unam.edu.ar|approx
+Universidad de Bologna - Representación en Buenos Aires|Argentina|||||||||unibo.edu.ar|approx
+Universidad Nacional de La Rioja|Argentina|La Rioja||||||||unlar.edu.ar|approx
+Universidad Nacional de la Patagonia Austral|Argentina|||||||||unpa.edu.ar|approx
+Universidad Nacional de Santiago del Estero|Argentina|Santiago Del Estero||||||||unse.edu.ar|approx
+Universidad Abierta Interamericana|Argentina|Ciudad Autónoma de Buenos Aires||||||||uai.edu.ar|approx
+Universidad Nacional de Villa Mercedes|Argentina|San Luis||||||||unvime.edu.ar|approx
+Universidad Nacional de Hurlingham|Argentina|Buenos Aires||||||||unahur.edu.ar|approx
+Universidad Provincial de Ezeiza|Argentina|Buenos Aires||||||||upe.edu.ar|approx
+Universidad ISALUD|Argentina|Ciudad Autónoma de Buenos Aires||||||||isalud.edu.ar|approx
+American University of Armenia|Armenia|||||||||aua.am|approx
+Yerevan State University|Armenia|||||||||ysu.am|approx
+Avondale University|Australia|New South Wales||||||||avondale.edu.au|approx
+Deakin University|Australia|Victoria||||||||deakin.edu.au|approx
+James Cook University of North Queensland|Australia|Queensland||||||||jcu.edu.au|approx
+Batchelor Institute of Indigenous Tertiary Education|Australia|Northern Territory||||||||nt.gov.au|approx
+University of South Australia|Australia|South Australia||||||||unisa.edu.au|approx
+University of Technology Sydney|Australia|New South Wales||||||||uts.edu.au|approx
+Fachhochschulstudiengänge Hagenberg|Austria|||||||||fh-hagenberg.at|approx
+Fachhochschule Vorarlberg|Austria|||||||||fhv.at|approx
+Universität Graz|Austria|||||||||kfunigraz.ac.at|approx
+Universität Mozarteum Salzburg|Austria|||||||||moz.ac.at|approx
+Universität Klagenfurt|Austria|||||||||uni-klu.ac.at|approx
+Azerbaijan State Agricultural Academy|Azerbaijan|||||||||adau.edu.az|approx
+Azerbaijan State University of Economics|Azerbaijan|||||||||unec.edu.az|approx
+Baku Slavic University|Azerbaijan|||||||||bsu-edu.org|approx
+Nakhchivan State University|Azerbaijan|||||||||ndu.edu.az|approx
+Arabian Gulf University|Bahrain|||||||||agu.edu.bh|approx
+RCSI-Medical University of Bahrain|Bahrain|||||||||rcsi-mub.com|approx
+Ahsanullah University of Science & Technology|Bangladesh|||||||||aust.edu|approx
+Bangladesh University of Business & Technology|Bangladesh|||||||||bubt.edu.bd|approx
+Chittagong University of Engineering and Technology|Bangladesh|||||||||cuet.ac.bd|approx
+East West University|Bangladesh|||||||||ewubd.edu|approx
+Independent University, Bangladesh|Bangladesh|||||||||iub.edu.bd|approx
+Manarat International University|Bangladesh|||||||||manarat.ac.bd|approx
+National University|Bangladesh|||||||||nu.edu.bd|approx
+Rajshahi University of Engineering and Technology|Bangladesh|||||||||ruet.ac.bd|approx
+University of Asia Pacific, Dhanmondi|Bangladesh|||||||||uap-bd.edu|approx
+Academy of the Ministry of Internal Affairs of the Republic of Belarus|Belarus|||||||||academy.mia.by|approx
+Belarusian State Economic University|Belarus|||||||||bseu.by|approx
+Grodno State Medical University|Belarus|||||||||grsmu.by|approx
+Minsk Institute of Management|Belarus|||||||||miu.by|approx
+Vitebsk State Technological University|Belarus|||||||||vstu.vitebsk.by|approx
+EHSAL - Europese Hogeschool Brussel|Belgium|||||||||ehsal.be|approx
+Facultés Universitaires Saint-Louis|Belgium|||||||||fusl.ac.be|approx
+Katholieke Universiteit Brussel|Belgium|||||||||kubrussel.ac.be|approx
+United Business Institute|Belgium|||||||||ubi.edu|approx
+Vlerick Leuven Gent Management School|Belgium|||||||||vlerick.be|approx
+Greenford International University|Belize|||||||||giuedu.bz|approx
+Escuela Militar de Ingeniería|Bolivia, Plurinational State of|||||||||emi.edu.bo|approx
+Universidad Autónoma Tomás Frías|Bolivia, Plurinational State of|||||||||uatf.edu.bo|approx
+Universidad Mayor de San Simón|Bolivia, Plurinational State of|||||||||umss.edu.bo|approx
+Universidad Privada Boliviana|Bolivia, Plurinational State of|||||||||upb.edu|approx
+International Burch University|Bosnia and Herzegovina|||||||||ibu.edu.ba|approx
+Univerzitet u Mostaru "Dzemal Bijedic"|Bosnia and Herzegovina|||||||||unmo.ba|approx
+Botswana College of Agriculture|Botswana|||||||||bca.bw|approx
+Universidade Candido Mendes|Brazil|||||||||candidomendes.br|approx
+Faculdades Integradas Curitiba|Brazil|||||||||faculdadescuritiba.br|approx
+Instituto Militar de Engenharia|Brazil|||||||||ime.eb.mil.br|approx
+Pontifícia Universidade Católica de Campinas|Brazil|||||||||puccamp.br|approx
+Centro Universitário Senac|Brazil|||||||||sp.senac.br|approx
+Universidade de Caxias do Sul|Brazil|||||||||ucs.tche.br|approx
+Universidade Estadual da Paraíba|Brazil|||||||||uepb.edu.br|approx
+Universidade Federal do Acre|Brazil|||||||||ufac.br|approx
+Universidade Federal da Grande Dourados|Brazil|||||||||ufgd.edu.br|approx
+Universidade Federal do Triângulo Mineiro|Brazil|||||||||uftm.edu.br|approx
+Universidade Federal do Piauí|Brazil|||||||||ufpi.br|approx
+Universidade Federal de São Carlos|Brazil|||||||||ufscar.br|approx
+Universidade de Ribeirão Preto|Brazil|||||||||unaerp.br|approx
+Universidade Bandeirante de São Paulo|Brazil|||||||||uniban.br|approx
+Universidade de Cruz Alta|Brazil|||||||||unicruz.tche.br|approx
+Universidade de Franca|Brazil|||||||||unifran.br|approx
+Universidade Estadual de Montes Claros|Brazil|||||||||unimontes.br|approx
+Universidade Católica de Santos|Brazil|||||||||unisantos.com.br|approx
+Universidade do Vale do Itajaí|Brazil|||||||||univali.rct-sc.br|approx
+Faculdades Integradas UPIS|Brazil|||||||||upis.br|approx
+Universidade Veiga de Almeida|Brazil|||||||||uva.br|approx
+Bourgas Free University|Bulgaria|||||||||bfu.bg|approx
+Medical University Varna|Bulgaria|||||||||mu-varna.bg|approx
+Shoumen University "Konstantin Preslavski"|Bulgaria|||||||||shu-bg.net|approx
+University of Food Technology|Bulgaria|||||||||uft-plovdiv.bg|approx
+Varna Free University|Bulgaria|||||||||vfu.bg|approx
+Hope Africa University|Burundi|||||||||hopeafricauniversity.org|approx
+National Institute of Education|Cambodia|||||||||ine.edu.kh|approx
+Royal University of Law and Economics|Cambodia|||||||||rule.edu.kh|approx
+Bamenda University of Science & Technology|Cameroon|||||||||bamendauniversity.com|approx
+Université de Ngaoundéré|Cameroon|||||||||univ-ndere.cm|approx
+British Columbia Institute of Technology|Canada|British Columbia||||||||bcit.ca|approx
+Camosun College|Canada|British Columbia||||||||camosun.bc.ca|approx
+Columbia College|Canada|British Columbia||||||||columbiacollege.ca|approx
+Douglas College|Canada|British Columbia||||||||douglas.bc.ca|approx
+Humber College|Canada|Ontario||||||||humber.ca|approx
+Langara College|Canada|British Columbia||||||||langara.bc.ca|approx
+Mount Allison University|Canada|New Brunswick||||||||mta.ca|approx
+Nicola Valley Institute of Technology|Canada|British Columbia||||||||nvit.bc.ca|approx
+Redeemer College|Canada|Ontario||||||||redeemer.ca|approx
+Selkirk College|Canada|British Columbia||||||||selkirk.bc.ca|approx
+St. Thomas University|Canada|||||||||stthomasu.ca|approx
+Bishop's University|Canada|Quebec||||||||ubishops.ca|approx
+University of Manitoba|Canada|Manitoba||||||||umanitoba.ca|approx
+University of Ontario Institute of Technology|Canada|Ontario||||||||uoit.ca|approx
+Université du Québec à Trois-Rivières|Canada|Quebec||||||||uqtr.uquebec.ca|approx
+St. Paul University|Canada|||||||||ustpaul.ca|approx
+University of Western Ontario|Canada|Ontario||||||||uwo.ca|approx
+St. Matthews University|Cayman Islands|||||||||stmatthews.edu|approx
+Universidad Alberto Hurtado|Chile|||||||||uahurtado.cl|approx
+Universidad Bolivariana|Chile|||||||||ubolivariana.cl|approx
+Universidad Catolica de La Santísima Concepción|Chile|||||||||ucsc.cl|approx
+Universidad Diego Portales|Chile|||||||||udp.cl|approx
+Universidad de Magallanes|Chile|||||||||umag.cl|approx
+Universidad Francisco de Aguirre|Chile|||||||||unfa.cl|approx
+Universidad de La Serena|Chile|||||||||userena.cl|approx
+Universidad Tecnologica "Vicente Perez Rosales"|Chile|||||||||uvipro.cl|approx
+Beijing University of Agriculture|China|||||||||bac.edu.cn|approx
+Beijing Forestry University|China|||||||||bjfu.edu.cn|approx
+Beijing University of Aeronautics and Astronautics|China|||||||||buaa.edu.cn|approx
+Chengdu University|China|||||||||cdu.edu.cn|approx
+Capital Normal University|China|||||||||cnu.edu.cn|approx
+Chongqing Telecommunication College|China|||||||||cqtcedu.com|approx
+Central South Forestry University|China|||||||||csfu.edu.cn|approx
+Capital University of Economics and Business|China|||||||||cueb.edu.cn|approx
+China youth college for political science|China|||||||||cyc.edu.cn|approx
+East China Jiao Tong University|China|||||||||ecjtu.jx.cn|approx
+Fujian University of Traditional Chinese Medicine|China|||||||||fjtcm.edu.cn|approx
+Guangdong University of Foreign Studies|China|||||||||gdufs.edu.cn|approx
+Guangxi University|China|||||||||gxu.edu.cn|approx
+Hainan Normal University|China|||||||||hainnu.edu.cn|approx
+Hebei Medical University|China|||||||||hebmu.edu.cn|approx
+Hefei University of Technology|China|||||||||hfut.edu.cn|approx
+Heilongjiang Commercial University|China|||||||||hljcu.edu.cn|approx
+Harbin University of Civil Engineering & Architecture|China|||||||||hrbucea.edu.cn|approx
+International Business University of Beijing|China|||||||||ibub.edu.cn|approx
+Jilin University|China|||||||||jlu.edu.cn|approx
+Jiangxi Normal University|China|||||||||jxnu.edu.cn|approx
+Liaoning Technical University|China|||||||||lntu.edu.cn|approx
+Nanchang University|China|||||||||ncu.edu.cn|approx
+Beijing New Asia University|China|||||||||newasia.bj.edu.cn|approx
+Nanjing University|China|||||||||nju.edu.cn|approx
+Northern Sichuan Medical College|China|||||||||nsmc.edu.cn|approx
+Ningxia University|China|||||||||nxu.edu.cn|approx
+Qinghai Radio & Television University|China|||||||||qhrtvu.edu.cn|approx
+South China Agricultural University|China|||||||||scau.edu.cn|approx
+Shanghai Dainji University|China|||||||||sdju.edu.cn|approx
+Southeast University|China|||||||||seu.edu.cn|approx
+Shanghai Ouhua Vocational Technical College|China|||||||||shouhua.net.cn|approx
+ShanghaiTech University|China|||||||||shanghaitech.edu.cn|approx
+Shenyang Jianzhu University|China|||||||||sjzu.edu.cn|approx
+Southwest Forestry University|China|||||||||swfc.edu.cn|approx
+Southwest University of Science and Technology|China|||||||||swust.edu.cn|approx
+Shenyang University|China|||||||||syu.edu.cn|approx
+Tianjin Open University|China|||||||||tjrtvu.edu.cn|approx
+Taiyuan University of Technology|China|||||||||tyut.edu.cn|approx
+Shanghai University of Science and Technology|China|||||||||usst.edu.cn|approx
+Wuhan Transportation University|China|||||||||whtu.edu.cn|approx
+Wenzhou Medical College|China|||||||||wzmu.net|approx
+Xijiang University|China|||||||||xiju.edu.cn|approx
+Xinjiang University of Finance and Economics|China|||||||||xjufe.edu.cn|approx
+Yan'an University|China|||||||||yau.edu.cn|approx
+Yantai Education Institute & Yantai Television University|China|||||||||ytet.edu.cn|approx
+Zhejiang Forestry University|China|||||||||zjfc.edu.cn|approx
+Sichuan Fine Art Institute|China|||||||||zsb.scfai.edu.cn|approx
+Colegio de Estudios Superiores de Administración (CESA)|Colombia|||||||||cesa.edu.co|approx
+Escuela Colombiana de Carreras Industriales|Colombia|||||||||ecci.edu.co|approx
+Fundación Universitaria Luis Amigó|Colombia|||||||||funlam.edu.co|approx
+Universidad Pedagogica Nacional|Colombia|||||||||pedagogica.edu.co|approx
+Universidad de Caldas|Colombia|||||||||ucaldas.edu.co|approx
+Universidad Católica del Oriente|Colombia|||||||||uco.edu.co|approx
+Universidad Externado de Colombia|Colombia|||||||||uexternado.edu.co|approx
+Universidad Autónoma de Bucaramanga|Colombia|||||||||unab.edu.co|approx
+Universidad del Atlántico|Colombia|||||||||uniatlantico.edu.co|approx
+Universidad del Magdalena|Colombia|||||||||unimagdalena.edu.co|approx
+Universidad de La Sabana|Colombia|||||||||unisabana.edu.co|approx
+Universidad Santiago de Cali|Colombia|||||||||usaca.edu.co|approx
+Universidad del Tolima|Colombia|||||||||ut.edu.co|approx
+Université de Lubumbashi|Congo, the Democratic Republic of the|||||||||unilu.ac.cd|approx
+Universidad San Juan de la Cruz|Costa Rica|||||||||sjdlc.com|approx
+Universidad Internacional de las Américas|Costa Rica|||||||||uia.ac.cr|approx
+Universidad Autonoma Monterrey|Costa Rica|||||||||unam.ac.cr|approx
+Universidad San Marcos|Costa Rica|||||||||usam.ac.cr|approx
+Zachodniopomorska School of Science and Engineering|Poland|||||||||zut.edu.pl|approx
+University of Zagreb|Croatia|||||||||unizg.hr|approx
+Universidad Pedagógica "José Martí", Camagüey|Cuba|||||||||ispcmw.rimed.cu|approx
+Universidad de Ciego de Avila|Cuba|||||||||unica.cu|approx
+Cyprus College|Cyprus|||||||||cycollege.ac.cy|approx
+Open University of Cyprus|Cyprus|||||||||ouc.ac.cy|approx
+Academy of Performing Arts, Film and TV Fakulty|Czech Republic|||||||||famu.cz|approx
+Tiffin University Prague|Czech Republic|||||||||tiffinprague.cz|approx
+Technical University of Mining and Metallurgy Ostrava|Czech Republic|||||||||vsb.cz|approx
+Aarhus School of Architecture|Denmark|||||||||a-aarhus.dk|approx
+Royal Danish School of Pharmacy|Denmark|||||||||dfh.dk|approx
+Engineering College of Aarhus|Denmark|||||||||iha.dk|approx
+Royal Veterinary and Agricultural University|Denmark|||||||||kvl.dk|approx
+Université de Djibouti|Djibouti|||||||||univ.edu.dj|approx
+Universidad Agroforestal Fernando A.Meriño|Dominican Republic|||||||||uafam.edu.do|approx
+Universidad Federico Henríquez y Carvajal|Dominican Republic|||||||||ufhec.edu.do|approx
+Universidad Eugenio Maria de Hostos|Dominican Republic|||||||||uniremhos.edu.do|approx
+Woods Hole Oceanographic Institution|USA|||||||||whoi.edu|approx
+Pontificia Universidad Católica del Ecuador|Ecuador|||||||||puce.edu.ec|approx
+Universidad Católica de Santiago de Guayaquil|Ecuador|||||||||ucsg.edu.ec|approx
+Universidad Laica "Eloy Alfaro" de Manabi|Ecuador|||||||||uleam.edu.ec|approx
+Universidad Técnica de Ambato|Ecuador|||||||||uta.edu.ec|approx
+Universidad Técnica del Norte|Ecuador|||||||||utn.edu.ec|approx
+Assiut University|Egypt|||||||||aun.edu.eg|approx
+Fayoum University|Egypt|||||||||fayoum.edu.eg|approx
+Minia University|Egypt|||||||||minia.edu.eg|approx
+October 6 university|Egypt|||||||||o6u.edu.eg|approx
+Tanta University|Egypt|||||||||tanta.edu.eg|approx
+Universidad Centroamericana "José Simeón Canas"|El Salvador|||||||||uca.edu.sv|approx
+Universidad Dr. Andreas Bello|El Salvador|||||||||unab.edu.sv|approx
+Universidad Salvadorena "Alberto Masferrer"|El Salvador|||||||||usam.edu.sv|approx
+Estonian Business School|Estonia|||||||||ebs.ee|approx
+University of Tartu|Estonia|||||||||ut.ee|approx
+Assosa University|Ethiopia|||||||||asu.edu.et|approx
+Haramaya University|Ethiopia|||||||||haramaya.edu.et|approx
+Semera University|Ethiopia|||||||||su.edu.et|approx
+Fiji National University|Fiji|||||||||fnu.ac.fj|approx
+University of Helsinki|Finland|||||||||helsinki.fi|approx
+Lappeenranta University of Technology|Finland|||||||||lut.fi|approx
+Swedish School of Economics and Business Administration, Finland|Finland|||||||||shh.fi|approx
+University of Lapland|Finland|||||||||ulapland.fi|approx
+AgroParisTech|France|||||||||agroparistech.fr|approx
+Conservatoire National des Arts et Métiers|France|||||||||cnam.fr|approx
+Ecole Européen des Affaires|France|||||||||eap.fr|approx
+Ecole Centrale de Marseille|France|||||||||centrale-marseille.fr|approx
+Ecole Supérieure de Commerce de Lyon|France|||||||||em-lyon.com|approx
+Ecole Nationale d'Ingénieurs des Travaux Agricoles de Clermont-Ferrand|France|||||||||enitac.fr|approx
+Ecole Nationale de la Statistique et de l'Analyse de l'information|France|||||||||ensai.fr|approx
+Ecole Nationale Supérieure de Chimie de Mulhouse|France|||||||||enscmu.univ-mulhouse.fr|approx
+Ecole Normale Supérieure de Fontenay-Saint Cloud|France|||||||||ens-fcl.fr|approx
+Ecole Normale Supérieure de Lyon|France|||||||||ens-lyon.fr|approx
+Ecole Nationale Supérieure des Telecommunications de Paris|France|||||||||enst.fr|approx
+Ecole Supérieure de Commerce de Dijon|France|||||||||escdijon.com|approx
+Ecole Supérieure de Commerce de Paris|France|||||||||escp.fr|approx
+Ecole Supérieure d'Ingénieurs en Génie Electrique|France|||||||||esigelec.fr|approx
+Ecole Spéciale des Travaux Publics du Bâtiment et de l'Industrie|France|||||||||estp.fr|approx
+Institut Commercial de Nancy|France|||||||||icn-nancy.com|approx
+Institut National des Sciences Appliquées de Rennes|France|||||||||insa-rennes.fr|approx
+Institut Supérieur Agricole de Beauvais|France|||||||||isab.fr|approx
+Institut Textile et Chimique de Lyon|France|||||||||itech.fr|approx
+Ecole Polytechnique Universitaire de Lille|France|||||||||polytech-lille.fr|approx
+Ecole Nationale Supérieure de l'Aéronautique et de l'Espace|France|||||||||supaero.fr|approx
+Université d'Auvergne (Clermont-Ferrand I)|France|||||||||u-clermont1.fr|approx
+Université d'Angers|France|||||||||univ-angers.fr|approx
+Université du Havre|France|||||||||univ-lehavre.fr|approx
+Université Claude Bernard (Lyon I)|France|||||||||univ-lyon1.fr|approx
+Université de Haute-Alsace|France|||||||||univ-mulhouse.fr|approx
+Université René Descartes (Paris V)|France|||||||||univ-paris5.fr|approx
+Université de Savoie|France|||||||||univ-savoie.fr|approx
+Université de Bretagne Sud|France|||||||||univ-ubs.fr|approx
+Université de Provence (Aix-Marseille I)|France|||||||||up.univ-mrs.fr|approx
+Ecole Nationale Vétérinaire de Nantes|France|||||||||vet-nantes.fr|approx
+Université de Strasbourg|France|||||||||unistra.fr|approx
+Université Omar Bongo|Gabon|||||||||uob.ga|approx
+Georgian Agricultural University|Georgia|||||||||gsau.edu.ge|approx
+Tbilisi State University|Georgia|||||||||tsu.edu.ge|approx
+Charité – Universitätsmedizin Berlin|Germany|Berlin||||||||charite.de|approx
+European College of Liberal Arts|Germany|||||||||ecla.de|approx
+European Management School|Germany|||||||||ems-mainz.de|approx
+Fachhochschule Aschaffenburg|Germany|||||||||fh-aschaffenburg.de|approx
+Fachhochschule Brandenburg|Germany|||||||||fh-brandenburg.de|approx
+Fachhochschule Erfurt|Germany|||||||||fh-erfurt.de|approx
+Hamburg University of Applied Sciences (HAW Hamburg)|Germany|||||||||haw-hamburg.de|approx
+Fachhochschule Jena|Germany|||||||||fh-jena.de|approx
+Staatlich anerkannte Fachhochschule für Kunsttherapie|Germany|||||||||fhkt.de|approx
+Fachhochschule Merseburg|Germany|||||||||fh-merseburg.de|approx
+Fachhochschule Nordostniedersachsen|Germany|||||||||fhnon.de|approx
+Freie Kunst-Studienstätte Ottersberg|Germany|||||||||fh-ottersberg.de|approx
+Fachhochschule Schmalkalden|Germany|||||||||fh-schmalkalden.de|approx
+Hochschule für Technik und Wirtschaft Berlin|Germany|||||||||fhtw-berlin.de|approx
+Fachhochschule Wiesbaden|Germany|||||||||fh-wiesbaden.de|approx
+Private Hanseuniversität|Germany|||||||||hanseuni.de|approx
+Handelshochschule Leipzig|Germany|||||||||hhl.de|approx
+Hochschule Darmstadt|Germany|||||||||h-da.de|approx
+Hochschule für Technik, Wirtschaft und Kultur Leipzig (FH)|Germany|||||||||htwk-leipzig.de|approx
+International School of New Media, University of Lübeck|Germany|||||||||isnm.de|approx
+Katholische Fachhochschule Nordrhein-Westfalen|Germany|||||||||kfhnw.de|approx
+Märkische Fachhochschule Iserlohn|Germany|||||||||mfh-iserlohn.de|approx
+Pädagogische Hochschule Erfurt/Mühlhausen|Germany|||||||||ph-erfurt.de|approx
+Popakademie Baden-Württemberg|Germany|||||||||popakademie.de|approx
+Rheinisch Westfälische Technische Hochschule Aachen|Germany|||||||||rwth-aachen.de|approx
+Technische Fachhochschule Georg Agricola für Rohstoff, Energie und, Umwelt zu Bochum|Germany|||||||||tfh-bochum.de|approx
+Brandenburgische Technische Universität Cottbus|Germany|||||||||tu-cottbus.de|approx
+Otto-Friedrich Universität Bamberg|Germany|||||||||uni-bamberg.de|approx
+Heinrich-Heine Universität Düsseldorf|Germany|||||||||uni-duesseldorf.de|approx
+Georg-August Universität Göttingen|Germany|||||||||uni-goettingen.de|approx
+Friedrich-Schiller Universität Jena|Germany|||||||||uni-jena.de|approx
+Universität Leipzig|Germany|||||||||uni-leipzig.de|approx
+Carl von Ossietzky Universität Oldenburg|Germany|||||||||uol.de|approx
+Universität Siegen|Germany|||||||||uni-siegen.de|approx
+Bayerische Julius-Maximilians-Universität Würzburg|Germany|||||||||uni-wuerzburg.de|approx
+Cape Coast Technical University|Ghana|||||||||cctu.edu.gh|approx
+Kessben College|Ghana|||||||||kc.edu.gh|approx
+Sunyani Technical University|Ghana|||||||||stu.edu.gh|approx
+Zenith University College|Ghana|||||||||zucghana.org|approx
+Agricultural University of Athens|Greece|Attica||||||||aua.gr|approx
+International Hellenic University|Greece|Macedonia||||||||ihu.gr|approx
+University of Piraeus|Greece|Attica||||||||unipi.gr|approx
+University of Thessaly|Greece|Thessaly||||||||uth.gr|approx
+Universidad Francisco Marroquín|Guatemala|||||||||ufm.edu.gt|approx
+Université Gamal Abdel Nasser de Conakry|Guinea|||||||||uganc.org|approx
+American University of the Caribbean|Haiti|||||||||auchaiti.org|approx
+Athenaeum Pontificium Regina Apostolorum|Holy See (Vatican City State)|||||||||upra.org|approx
+Universidad Pedagógica Nacional "Francisco Morazán"|Honduras|||||||||upnfm.edu.hn|approx
+Hong Kong Baptist University|Hong Kong|||||||||hkbu.edu.hk|approx
+Debrecen University of Agricultural Sciences|Hungary|||||||||agr.unideb.hu|approx
+University Medical School of Debrecen|Hungary|||||||||dote.hu|approx
+Hungarian University of Physical Education|Hungary|||||||||hupe.hu|approx
+University of West Hungary|Hungary|||||||||nyme.hu|approx
+University of Debrecen|Hungary|||||||||unideb.hu|approx
+University Centre of the Westfjords|Iceland|||||||||hsvest.is|approx
+Allahabad Agricultural Institute, Deemed University|India|||||||||aaidu.org|approx
+Indian Board of Alternative Medicine|India|West Bengal||||||||altmedworld.net|approx
+Anna University of Technology, Tirunelveli|India|Tamil Nadu||||||||annauniv.edu.in|approx
+Banasthali University|India|||||||||banasthali.org|approx
+Bhagwant University|India|||||||||bhagwantuniversity.com|approx
+Birla Institute of Technology and Science|India|Rajasthan||||||||bits-pilani.ac.in|approx
+Barkatullah University|India|||||||||bubhopal.nic.in|approx
+Center for Entrepreneurship and Small Business Management|India|||||||||cesbm.ac.in|approx
+Dr. C.V. Raman University|India|||||||||cvru.ac.in|approx
+Delhi College of Engineering (DCE)|India|Delhi||||||||dceonline.net|approx
+Dr. D.Y. Patil University|India|Maharashtra||||||||dypatiluniversity.org|approx
+Guru Jambeshwar University|India|||||||||gju.ernet.in|approx
+Gurukul University|India|||||||||gurukuluniversity.org|approx
+IASE (Institute of Advanced Studies) Deemed University|India|||||||||iaseduniv.org|approx
+ICFAI University, Nagaland|India|Nagaland||||||||iunagaland.edu.in|approx
+Indira Gandhi National Open University|India|||||||||ignou.ac.in|approx
+Indian Institute of Information Technology, Guwahati|India|Assam||||||||iiitg.ac.in|approx
+Indian Institute of Technology, Guwahati|India|Assam||||||||iitg.ernet.in|approx
+Indian Institute of Technology, Roorkee|India|Uttarakhand||||||||iitr.ac.in|approx
+Guru Gobind Singh Indraprastha University|India|||||||||ipu.ac.in|approx
+First Global University to teaching Jainism|India|||||||||jainuniversity.org|approx
+Jawaharlal Nehru Technological University Hyderabad|India|Telangana||||||||jntuh.ac.in|approx
+Sri Chandrasekharendra Saraswathi Viswa Mahavidyalaya|India|||||||||kanchiuniv.ac.in|approx
+Kerala Agricultural University|India|Kerala||||||||kau.edu|approx
+Kerala University of Fisheries and Ocean Sciences|India|Kerala||||||||kufos.ac.in|approx
+Lalit Narayan Mithila University|India|||||||||lnmu.bih.nic.in|approx
+Makanlal Chutur Vedi University|India|||||||||mcu.ac.in|approx
+Marathwada Agricultural University|India|||||||||mkv2.mah.nic.in|approx
+Nagaland University|India|Nagaland||||||||nagauniv.org.in|approx
+National Institute of Mental Health and Neuro Sciences|India|||||||||nimhans.kar.nic.in|approx
+National Institute of Technology Calicut|India|Kerala||||||||nitc.ac.in|approx
+National Institute of Technology Meghalaya|India|Meghalaya||||||||nitm.ac.in|approx
+National Institute of Technology Silchar|India|Assam||||||||nits.ac.in|approx
+North Maharashtra University|India|Maharashtra||||||||nmu.ac.in|approx
+Punjab Engineering College|India|Punjab||||||||pec.ac.in|approx
+Punjabi University Patiala|India|Punjab||||||||punjabiuniversity.ac.in|approx
+Rajiv Gandhi University|India|||||||||rgu.ac.in|approx
+National Sanskrit University|India|||||||||sanskrit.nic.in|approx
+Shobhit University, Meerut|India|||||||||shobhituniversity.ac.in|approx
+Shri Lal Bahadur Shastri Rashtriya Sanskrit Vidyapeetha|India|||||||||slbsrsv.ac.in|approx
+Sardar Patel University|India|||||||||spuvvn.edu|approx
+Solapur University|India|||||||||su.digitaluniversity.ac|approx
+Potti Sreeramulu Telugu University|India|Telangana||||||||teluguuniversity.ac.in|approx
+Tamil Nadu Dr. M.G.R. Medical University|India|Tamil Nadu||||||||tnmmu.ac.in|approx
+University of Agricultural Sciences, Bangalore|India|Karnataka||||||||uasbng.kar.nic.in|approx
+University of Rajasthan|India|Rajasthan||||||||uniraj.org|approx
+Utkal University|India|||||||||utkaluniv.org|approx
+Vellore Institute of Technology|India|Tamil Nadu||||||||vit.ac.in|approx
+Yashawantrao Chavan Maharashtra Open University|India|||||||||ycmou.com|approx
+Binus University|Indonesia|||||||||binus.ac.id|approx
+Institut Sains dan Teknologi Al Kamal|Indonesia|||||||||ista.ac.id|approx
+Universitas Mahendradatta|Indonesia|||||||||mahendradatta.org|approx
+Universitas Paramadina Mulya|Indonesia|||||||||paramadina.ac.id|approx
+Politeknik Negeri Bandung|Indonesia|||||||||polban.ac.id|approx
+Universitas Sarjanawiyata Tamansiswa|Indonesia|||||||||sarjanawiyata.ac.id|approx
+Universitas Ahmad Dahlan|Indonesia|||||||||uad.ac.id|approx
+Universitas Gadjah Mada|Indonesia|||||||||ugm.ac.id|approx
+Universitas Kristen Indonesia|Indonesia|||||||||uki.ac.id|approx
+Universitas Muhammadiyah Malang|Indonesia|||||||||umm.ac.id|approx
+Universitas Andalas|Indonesia|||||||||unand.ac.id|approx
+Universitas Haluoleo|Indonesia|||||||||unhalu.ac.id|approx
+Universitas Komputer Indonesia|Indonesia|||||||||unikom.ac.id|approx
+Universitas Islam Bandung|Indonesia|||||||||unisba.ac.id|approx
+Universitas Trunojoyo Madura|Indonesia|||||||||trunojoyo.ac.id|approx
+Universitas Lambung Mangkurat|Indonesia|||||||||unlam.ac.id|approx
+STMIK Widya Cipta Dharma|Indonesia|||||||||wicida.ac.id|approx
+Universitas Ngurah Rai|Indonesia|||||||||unr.ac.id|approx
+Universitas Sriwijaya|Indonesia|||||||||unsri.ac.id|approx
+Universitas 17 Agustus 1945 Samarinda|Indonesia|||||||||untag-smd.ac.id|approx
+Universitas Proklamasi 45|Indonesia|||||||||up45.ac.id|approx
+Universitas Sanata Dharma|Indonesia|||||||||usd.ac.id|approx
+Universitas Katolik Widya Karya|Indonesia|||||||||widyakarya.ac.id|approx
+Adiban Institute of Higher Education|Iran|Semnan||||||||adiban.ac.ir|approx
+Art University|Iran|Tehran||||||||art.ac.ir|approx
+Baha'i Institute for Higher Education|Iran|||||||||bihe.org|approx
+Delijan Payame Noor University|Iran|Markazi||||||||delijanpnu.ac.ir|approx
+Islamic Azad University, Gorgan|Iran|Golestan||||||||gorganiau.ir|approx
+Islamic Azad University, Ahar|Iran|East Azerbaijan||||||||iau-ahar.ac.ir|approx
+Islamic Azad University, Hamedan|Iran|Hamedan||||||||iauh.ac.ir|approx
+Islamic Azad University, Region One|Iran|||||||||iauro.ac.ir|approx
+Islamic Azad University, Tabriz|Iran|East Azerbaijan||||||||iaut.ac.ir|approx
+Imam Reza University|Iran|Razavi Khorasan||||||||imamreza.ac.ir|approx
+Kamal-Ol-Molk University|Iran|Mazandaran||||||||kamalolmolk.ac.ir|approx
+Khomeinishahr Payame Noor University|Iran|Isfahan||||||||km.isfpnu.ac.ir|approx
+Malayer University|Iran|Hamadan||||||||malayeru.ac.ir|approx
+Tarbiat Modares University|Iran|Tehran||||||||modares.ac.ir|approx
+Najaf Abad University of Applied Science and Technology|Iran|Isfahan||||||||najafabad-uast.ac.ir|approx
+Power and Water Institute of Technology|Iran|||||||||pwit.ac.ir|approx
+Islamic Azad University, Roodehen|Iran|Tehran||||||||riau.ac.ir|approx
+Islamic Azad University, Semnan|Iran|Semnan||||||||semnaniau.ac.ir|approx
+Shiraz University|Iran|Fars||||||||shirazu.ac.ir|approx
+Shahid Rajaee Teacher Training University|Iran|Tehran||||||||srttu.edu|approx
+Tabriz University of Medical Sciences|Iran|East Azerbaijan||||||||tbzmed.ac.ir|approx
+Isfahan University|Iran|Isfahan||||||||ui.ac.ir|approx
+Zabol University|Iran|Sistan and Baluchestan||||||||uoz.ac.ir|approx
+Vali-e-Asr University of Rafsanjan|Iran|Kerman||||||||vru.ac.ir|approx
+Al Mamon University College|Iraq|||||||||almamonuc.org|approx
+Cihan University|Iraq|||||||||cihanuniversity.edu.iq|approx
+Madenat Alelem University College|Iraq|||||||||madenatalelem.com|approx
+Thi Qar University|Iraq|||||||||thiqaruni.org|approx
+Uinversity of Babylon|Iraq|||||||||uobabylon.edu.iq|approx
+Misan University|Iraq|||||||||uomisan.edu.iq|approx
+Dublin Institute for Advanced Studies|Ireland|||||||||dias.ie|approx
+National University of Ireland, Maynooth|Ireland|||||||||may.ie|approx
+University College Cork|Ireland|||||||||ucc.ie|approx
+Ashkelon Academic College|Israel|||||||||ash-college.ac.il|approx
+Hebrew University of Jerusalem|Israel|||||||||huji.ac.il|approx
+Technion - Israel Institute of Technology|Israel|||||||||technion.ac.il|approx
+Institute for Advanced Studies Lucca|Italy|||||||||imtlucca.it|approx
+John Cabot University|Italy|||||||||johncabot.edu|approx
+Polytechnic Institute of Turin|Italy|||||||||polito.it|approx
+University of Bari|Italy|||||||||uniba.it|approx
+University of Calabria|Italy|||||||||unical.it|approx
+European School of Economics|Italy|||||||||uniese.it|approx
+University of Macerata|Italy|||||||||unimc.it|approx
+University of Insubria|Italy|||||||||uninsubria.it|approx
+University of Roma "La Sapienza"|Italy|||||||||uniroma1.it|approx
+University Institute of Teacher Training "Suor Orsola Benincasa"|Italy|||||||||unisob.na.it|approx
+University of Udine|Italy|||||||||uniud.it|approx
+Northern Caribbean University|Jamaica|||||||||ncu.edu.jm|approx
+Aichi Medical University|Japan|||||||||aichi-med-u.ac.jp|approx
+Aomori Chuoh Gakuin University|Japan|||||||||aomoricgu.ac.jp|approx
+Ashikaga Institute of Technology|Japan|||||||||ashitech.ac.jp|approx
+Baika Women's College|Japan|||||||||baika.ac.jp|approx
+Chuo Gakuin University|Japan|||||||||cgu.ac.jp|approx
+Chuo University|Japan|||||||||chuo-u.ac.jp|approx
+Osaka University of Commerce|Japan|||||||||daishodai.ac.jp|approx
+Doshisha University|Japan|||||||||doshisha.ac.jp|approx
+Ferris University|Japan|||||||||ferris.ac.jp|approx
+Fukui University|Japan|||||||||fukui-u.ac.jp|approx
+Fukuoka Women's University|Japan|||||||||fwu.ac.jp|approx
+Gifu Women's University|Japan|||||||||gijodai.ac.jp|approx
+Hanazono University|Japan|||||||||hanazono.ac.jp|approx
+Hiroshima Women's University|Japan|||||||||hirojo-u.ac.jp|approx
+Hitotsubashi University|Japan|||||||||hit-u.ac.jp|approx
+Hokkaido University of Health Sciences|Japan|||||||||hoku-iryo-u.ac.jp|approx
+Hyogo University of Education|Japan|||||||||hyogo-u.ac.jp|approx
+Chiba Institute of Technology|Japan|||||||||it-chiba.ac.jp|approx
+Iwate University|Japan|||||||||iwate-u.ac.jp|approx
+Women's College of Fine Arts|Japan|||||||||joshibi.ac.jp|approx
+Kanagawa Institute of Technology|Japan|||||||||kanagawa-it.ac.jp|approx
+Tottori University of Environmental Studies|Japan|||||||||kankyo-u.ac.jp|approx
+Kanagawa Dental College|Japan|||||||||kdcnet.ac.jp|approx
+Kyoto Institute of Technology|Japan|||||||||kit.ac.jp|approx
+Kumamoto Institute of Technology|Japan|||||||||knct.ac.jp|approx
+Kobe University|Japan|||||||||kobe-u.ac.jp|approx
+Kokugakuin University|Japan|||||||||kokugakuin.ac.jp|approx
+Koyasan University|Japan|||||||||koyasan-u.ac.jp|approx
+Kanda University of International Studies|Japan|||||||||kuis.ac.jp|approx
+Kushiro Public University of Economics|Japan|||||||||kushiro-pu.ac.jp|approx
+Kyoritsu Pharmaceutical University|Japan|||||||||kyoritsu-ph.ac.jp|approx
+Kyoto Women's University|Japan|||||||||kyoto-wu.ac.jp|approx
+Matsuyama University|Japan|||||||||matsuyama-u.ac.jp|approx
+Meisei University|Japan|||||||||meisei-u.ac.jp|approx
+Miyagi University of Education|Japan|||||||||miyakyo-u.ac.jp|approx
+Muroran Institute of Technology|Japan|||||||||muroran-it.ac.jp|approx
+Nagano University|Japan|||||||||nagano.ac.jp|approx
+Nakamura Gakuen University|Japan|||||||||nakamura-u.ac.jp|approx
+Nara Women's University|Japan|||||||||nara-wu.ac.jp|approx
+Nagoya Gakuin University|Japan|||||||||ngu.ac.jp|approx
+Nisho Gakusha University|Japan|||||||||nishogakusha-u.ac.jp|approx
+Niigata Sangyo University|Japan|||||||||nsu.ac.jp|approx
+Obirin University|Japan|||||||||obirin.ac.jp|approx
+Oita University of Nursing and Health Sciences|Japan|||||||||oita-nhs.ac.jp|approx
+Okinawa International University|Japan|||||||||okiu.ac.jp|approx
+Osaka University of Education|Japan|||||||||osaka-kyoiku.ac.jp|approx
+Otani University|Japan|||||||||otani.ac.jp|approx
+Poole Gakuin University|Japan|||||||||poole.ac.jp|approx
+Ritsumeikan University|Japan|||||||||ritsumei.ac.jp|approx
+Sakushin Gakuin University|Japan|||||||||sakushin-u.ac.jp|approx
+Seinan Gakuin University|Japan|||||||||seinan-gu.ac.jp|approx
+Shikoku Christian College|Japan|||||||||sg-u.ac.jp|approx
+Shimane University|Japan|||||||||shimane-u.ac.jp|approx
+Shokei College|Japan|||||||||shokei-gakuen.ac.jp|approx
+Shukutoku University|Japan|||||||||shukutoku.ac.jp|approx
+Sonoda Women's University|Japan|||||||||sonoda-u.ac.jp|approx
+Surugadai University|Japan|||||||||surugadai.ac.jp|approx
+Takamatsu University|Japan|||||||||takamatsu-u.ac.jp|approx
+Teikyo Heisei University|Japan|||||||||teikyo-u.ac.jp|approx
+Tokyo Institute of Technology|Japan|||||||||titech.ac.jp|approx
+Tohoku Gakuin University|Japan|||||||||tohoku-gakuin.ac.jp|approx
+Tohoku Women's College|Japan|||||||||tojo.ac.jp|approx
+Tokyo Kasei University|Japan|||||||||tokyo-kasei.ac.jp|approx
+Tokyo University of Pharmacy and Life Science|Japan|||||||||toyaku.ac.jp|approx
+Tsukuba University|Japan|||||||||tsukuba.ac.jp|approx
+Temple University Japan|Japan|||||||||tuj.ac.jp|approx
+University of Electro-Communications|Japan|||||||||uec.ac.jp|approx
+University of the Ryukyus|Japan|||||||||u-ryukyu.ac.jp|approx
+Wakayama Medical College|Japan|||||||||wakayama-med.ac.jp|approx
+Yamaguchi University|Japan|||||||||yamaguchi-u.ac.jp|approx
+Yokohama City University|Japan|||||||||yokohama-cu.ac.jp|approx
+Al-Ahliyya Amman University|Jordan|||||||||ammanu.edu.jo|approx
+Jadara University|Jordan|||||||||jadara.edu.jo|approx
+Philadelphia University|Jordan|||||||||philadelphia.edu.jo|approx
+Kazak State University of Agriculture|Kazakhstan|||||||||agriun.almaty.kz|approx
+Abai State University|Kazakhstan|||||||||kaznpu.kz|approx
+North Kazakhstan State University|Kazakhstan|||||||||nkzu.kz|approx
+Western Kazakhstan Agricultural University|Kazakhstan|||||||||wkau.kz|approx
+Daystar University|Kenya|||||||||daystar.ac.ke|approx
+Kabarak University|Kenya|||||||||kabarak.ac.ke|approx
+Kiriri Womens University of Science and Technology|Kenya|||||||||kwust.ac.ke|approx
+Meru University of Science and Technology|Kenya|||||||||must.ac.ke|approx
+Scott Christian University|Kenya|||||||||scott.ac.ke|approx
+University of Nairobi|Kenya|||||||||uonbi.ac.ke|approx
+Baekseok University|South Korea|||||||||bu.ac.kr|approx
+Cheju National University|South Korea|||||||||cheju.ac.kr|approx
+Chonju National University of Education|South Korea|||||||||chonju-e.ac.kr|approx
+Catholic University of Pusan|South Korea|||||||||cup.ac.kr|approx
+Chuncheon National University of Education|South Korea|||||||||cnue.ac.kr|approx
+Dongseo University|South Korea|||||||||dongseo.ac.kr|approx
+Daegu University|South Korea|||||||||daegu.ac.kr|approx
+Dongyang University|South Korea|||||||||dyu.ac.kr|approx
+Gongju National University of Education|South Korea|||||||||gjue.ac.kr|approx
+Hankuk Aviation University|South Korea|||||||||hangkong.ac.kr|approx
+Honam University|South Korea|||||||||honam.ac.kr|approx
+Handong Global University|South Korea|||||||||handong.edu|approx
+Information and Communications University|South Korea|||||||||icu.ac.kr|approx
+Jeonju National University of Education|South Korea|||||||||jnue.ac.kr|approx
+Kangwon National University|South Korea|||||||||kangwon.ac.kr|approx
+Korea National University of Physical Education|South Korea|||||||||knupe.ac.kr|approx
+Kunsan National University|South Korea|||||||||kunsan.ac.kr|approx
+Kyungil University|South Korea|||||||||kyungil.ac.kr|approx
+Korea Armed Forces Nursing Academy|South Korea|||||||||kafna.ac.kr|approx
+Korea University of Technology and Education|South Korea|||||||||koreatech.ac.kr|approx
+Miryang National University|South Korea|||||||||miryang.ac.kr|approx
+Namseoul University|South Korea|||||||||nsu.ac.kr|approx
+Pusan University of Foreign Studies|South Korea|||||||||pufs.ac.kr|approx
+Sang Myung University|South Korea|||||||||sangmyung.ac.kr|approx
+Sung Kyun Kwan University|South Korea|||||||||skku.ac.kr|approx
+Sunchon National University|South Korea|||||||||sunchon.ac.kr|approx
+Sangmyung University|South Korea|||||||||smu.ac.kr|approx
+Songwon University|South Korea|||||||||songwon.ac.kr|approx
+Taejon National University of Technology|South Korea|||||||||tnut.ac.kr|approx
+Wonkwang University|South Korea|||||||||wonkwang.ac.kr|approx
+Youngsan University of Son Studies|South Korea|||||||||www.youngsan.ac.kr|approx
+American University of Kuwait|Kuwait|||||||||auk.edu.kw|approx
+Bishkek Humanities University|Kyrgyzstan|||||||||bhu.kg|approx
+Kyrgyz Turkish Manas University|Kyrgyzstan|||||||||manas.kg|approx
+Liepaja Pedagogical Higher School|Latvia|||||||||cs.lpu.lv|approx
+University of Latvia|Latvia|||||||||lu.lv|approx
+Stockholm School of Economics in Riga|Latvia|||||||||sseriga.edu.lv|approx
+American University College of Technology|Lebanon|||||||||aut.edu|approx
+Al-Islah University|Lebanon|||||||||islahonline.org|approx
+Lebanese University|Lebanon|||||||||ul.edu.lb|approx
+Al-Jabal Al-Gharbi University|Libya|||||||||jgu.edu.ly|approx
+Zawiya University|Libya|||||||||zu.edu.ly|approx
+Military academy of Lithuania|Lithuania|||||||||lka.lt|approx
+Vytautas Magnus University|Lithuania|||||||||vdu.lt|approx
+Macau University of Science and Technology|Macao|||||||||must.edu.mo|approx
+St.Kliment Ohridski University|North Macedonia|||||||||uklo.edu.mk|approx
+Catholic University of Malawi|Malawi|||||||||cunima.net|approx
+Asia E University|Malaysia|||||||||aeu.edu.my|approx
+City University Malaysia|Malaysia|Selangor||||||||city.edu.my|approx
+International Islamic College|Malaysia|||||||||iic.edu.my|approx
+Institute of Teachers Education, Kota Bharu|Malaysia|||||||||ipgkkb.edu.my|approx
+Institute of Teachers Education, Ipoh|Malaysia|||||||||ipip.edu.my|approx
+Institute of Teachers Education, Tengku Ampuan Afzan|Malaysia|||||||||iptaa.edu.my|approx
+UOW Malaysia KDU|Malaysia|Selangor||||||||uow.edu.my|approx
+Kuala Lumpur Metropolitan University|Malaysia|||||||||klmu.edu.my|approx
+Selangor Islamic University College|Malaysia|||||||||kuis.edu.my|approx
+Management and Science University|Malaysia|||||||||msu.edu.my|approx
+Perdana University|Malaysia|||||||||perdanauniversity.edu.my|approx
+Johore Bharu Primeir Polytechnic|Malaysia|||||||||polijb.edu.my|approx
+Sultan Azlan Shah Polytechnic|Malaysia|||||||||psas.edu.my|approx
+Raffles University|Malaysia|||||||||raffles-university.edu.my|approx
+TPM College|Malaysia|||||||||tpmcollege.edu.my|approx
+University Malaysia Pahang|Malaysia|||||||||ump.edu.my|approx
+Universiti Industri Selangor|Malaysia|||||||||unisel.edu.my|approx
+Universiti Teknikal Malaysia Melaka|Malaysia|||||||||utem.edu.my|approx
+Mandhu College|Maldives|||||||||mandhu.edu.mv|approx
+University of Mauritius|Mauritius|||||||||uom.ac.mu|approx
+Centro de Estudios Universitarios Monterrey|Mexico|||||||||ceu.edu.mx|approx
+Dirección General de Institutos Tecnológicos|Mexico|||||||||dgit.gob.mx|approx
+Instituto Tecnológico de Aguascalientes|Mexico|||||||||ita.mx|approx
+Instituto Tecnológico de Querétaro|Mexico|||||||||itq.edu.mx|approx
+Universidad Olmeca|Mexico|||||||||olmeca.edu.mx|approx
+Universidad Autónoma Agraria "Antonio Narro"|Mexico|||||||||uaaan.mx|approx
+Universidad Autónoma de Ciudad Juárez|Mexico|||||||||uacj.mx|approx
+Universidad Autónoma de Fresnillo|Mexico|||||||||uaf.mx|approx
+Universidad Autónoma de Querétaro|Mexico|||||||||uaq.mx|approx
+Universidad Cientifica Latinoamericana de Hidalgo|Mexico|||||||||uclah.edu.mx|approx
+Universidad de las Américas|Mexico|||||||||udla.mx|approx
+Universidad Intercontinental|Mexico|||||||||uic.edu.mx|approx
+Universidad La Salle|Mexico|||||||||ulsa.edu.mx|approx
+Universidad Mexicana del Noreste|Mexico|||||||||umne.edu.mx|approx
+Universidad España de Durango|Mexico|||||||||unes.edu.mx|approx
+Universidad Jóse Vasconcelos|Mexico|||||||||univas.edu.mx|approx
+Universidad de Norteamerica|Mexico|||||||||un.mx|approx
+Universidad de Quintana Roo|Mexico|||||||||uqroo.mx|approx
+Universidad Tecnologica de la Mixteca|Mexico|||||||||utm.mx|approx
+Universidad Cristóbal Colón|Mexico|||||||||ver.ucc.mx|approx
+Moldova Cooperative Trade University|Moldova|||||||||uccm.md|approx
+Moldova Technical University|Moldova|||||||||utm.md|approx
+Mongolian National University|Mongolia|||||||||num.edu.mn|approx
+Ecole Mohammadia d'Ingénieurs|Morocco|||||||||emi.ac.ma|approx
+International Institute for Higher Education|Morocco|||||||||iihem.ac.ma|approx
+Université Abdelmalek Essadi|Morocco|||||||||uae.ac.ma|approx
+Université Ibn Toufail|Morocco|||||||||univ-ibntofail.ac.ma|approx
+Universidade Eduardo Mondlane|Mozambique|||||||||uem.mz|approx
+University of Namibia|Namibia|||||||||unam.na|approx
+Tribhuvan University Kathmandu|Nepal|Bagmati||||||||tribhuvan-university.edu.np|approx
+Rotterdam School of Management|Netherlands|||||||||rsm.nl|approx
+Hogeschool Leiden|Netherlands|||||||||hsleiden.nl|approx
+NHTV Breda University of Professional Education|Netherlands|||||||||nhtv.nl|approx
+Tilburg University|Netherlands|||||||||tilburguniversity.nl|approx
+University for Humanistics (UH)|Netherlands|||||||||uvh.nl|approx
+Auckland University of Technology|New Zealand|Auckland||||||||aut.ac.nz|approx
+University of Waikato|New Zealand|Waikato||||||||waikato.ac.nz|approx
+Universidad Hispanoamericana|Nicaragua|||||||||uhispam.edu.ni|approx
+Universidad Politecnica de Nicaragua|Nicaragua|||||||||upoli.edu.ni|approx
+Afe Babalola University|Nigeria|||||||||abuad.edu.ng|approx
+Al-hikmah University|Nigeria|||||||||alhikmah.edu.ng|approx
+Baze University Abuja|Nigeria|||||||||bazeuniversity.edu.ng|approx
+Caritas University|Nigeria|||||||||caritasuni.edu.ng|approx
+Ekiti State University|Nigeria|||||||||eksu.edu.ng|approx
+Federal University of Technology, Owerri|Nigeria|||||||||futo.edu.ng|approx
+Kaduna State University|Nigeria|||||||||kasuportal.net|approx
+Lagos State Polytechnic|Nigeria|||||||||laspotech.net|approx
+Nigerian Defence Academy|Nigeria|||||||||nda.edu.ng|approx
+Oduduwa University|Nigeria|||||||||oduduwauniversity.edu.ng|approx
+Redeemers University|Nigeria|||||||||run.edu.ng|approx
+University of Ibadan|Nigeria|||||||||ui.edu.ng|approx
+University of Ilorin|Nigeria|||||||||unilorin.edu.ng|approx
+Rivers State University of Science and Technology|Nigeria|||||||||ust.edu.ng|approx
+Norwegian School of Management BI|Norway|||||||||bi.no|approx
+Norwegian School of Economics and Business Administration|Norway|||||||||nhh.no|approx
+University of Bergen|Norway|||||||||uib.no|approx
+Dhofar University|Oman|||||||||du.edu.om|approx
+University of Nizwa|Oman|||||||||unizwa.edu.om|approx
+Air University|Pakistan|Panjab||||||||au.edu.pk|approx
+Bahauddin Zakariya University, Multan|Pakistan|Panjab||||||||bzu.edu.pk|approx
+COMSATS Institute of Information Technology, Wah|Pakistan|||||||||ciit-wah.edu.pk|approx
+Gandhara Institute of Medical Sciences|Pakistan|||||||||gandhara.edu.pk|approx
+The Global College Lahore|Pakistan|||||||||global.edu.pk|approx
+Institute of Business Administration Sukkur|Pakistan|||||||||iba-suk.edu.pk|approx
+Mohammad Ali Jinnah University, Karachi|Pakistan|||||||||jinnah.edu|approx
+Kohat University of Science and Technology (KUST)|Pakistan|Khyber Pakhtunkhwa||||||||kust.edu.pk|approx
+National College of Arts|Pakistan|||||||||nca.edu.pk|approx
+National University of Modern Languages|Pakistan|||||||||numl.edu.pk|approx
+Pyramid Education Center|Pakistan|||||||||pedu.edu.pk|approx
+University of the Punjab, Gujranwala Campus|Pakistan|Panjab||||||||pugc.edu.pk|approx
+Sarhad University of Science & Information Technology, Peshawar|Pakistan|||||||||suit.edu.pk|approx
+University of Education|Pakistan|||||||||ue.edu.pk|approx
+University of Karachi|Pakistan|Sindh||||||||uok.edu.pk|approx
+University of Veterinary & Animal Science|Pakistan|Panjab||||||||uvas.edu.pk|approx
+Al-Quds University - The Arab University in Jerusalem|Palestine, State of|||||||||alquds.edu|approx
+Palestine Technical University - Kadoorie|Palestine, State of|||||||||ptuk.edu.ps|approx
+Universidad Tecnológica Oteima|Panama|||||||||oteima.ac.pa|approx
+Universidad Interamericana de Educacion a Distancia de Panama|Panama|||||||||uniedpa.com|approx
+Papua New Guinea University of Technology|Papua New Guinea|||||||||unitech.ac.pg|approx
+Universidad Comunera|Paraguay|||||||||ucom.edu.py|approx
+Universidad Marcelino Champagnat|Peru|||||||||champagnat.edu.pe|approx
+Universidad Católica de Santa María|Peru|||||||||ucsm.edu.pe|approx
+Universidad Los Angeles de Chimbote|Peru|||||||||uladech.edu.pe|approx
+Universidad Nacional de Cajamarca|Peru|||||||||unc.edu.pe|approx
+Universidad Femenina del Sagrado Corazón|Peru|||||||||unife.edu.pe|approx
+Universidad Nacional de San Agustin|Peru|||||||||unsa.edu.pe|approx
+Universidad Peruana Cayetano Heredia|Peru|||||||||upch.edu.pe|approx
+Universidad Privada de Tacna|Peru|||||||||upt.edu.pe|approx
+Universidad Tecnológica del Peru|Peru|||||||||utp.edu.pe|approx
+De La Salle University, Araneta|Philippines|National Capital Region||||||||araneta.dlsu.edu.ph|approx
+Centro Escolar University|Philippines|National Capital Region||||||||ceu.edu.ph|approx
+Divine Word College of Legazpi|Philippines|Bicol||||||||dwc-legazpi.edu|approx
+Isabela State University|Philippines|Cagayan Valley||||||||isu.edu.ph|approx
+Manuel L. Quezon University|Philippines|National Capital Region||||||||mlqu.edu.ph|approx
+Notre Dame University|Philippines|Bangsamoro||||||||ndu.fapenet.org|approx
+Philippine Normal University|Philippines|National Capital Region||||||||pnumanila.com.ph|approx
+Saint Louis University|Philippines|Cordillera Administrative Region||||||||slu.edu.ph|approx
+University of Asia and the Pacific|Philippines|National Capital Region||||||||uap.edu.ph|approx
+University of the Immaculate Conception|Philippines|Davao||||||||uic.globe.com.ph|approx
+University of Negros Occidental-Recoletos|Philippines|Western Visayas||||||||uno-r.edu.ph|approx
+University of the Philippines Manila|Philippines|National Capital Region||||||||upm.edu.ph|approx
+University of San Jose Recoletos|Philippines|Central Visayas||||||||usjr.edu.ph|approx
+Western Mindanao State University|Philippines|Zamboanga Peninsula||||||||wmsu.edu.ph|approx
+Academy of Economics in Wroclaw|Poland|||||||||ae.wroc.pl|approx
+Medical Academy in Lublin|Poland|||||||||am.lublin.pl|approx
+Medical Academy in Warszawa|Poland|||||||||amwaw.edu.pl|approx
+Agricultural University of Wroclaw|Poland|||||||||ar.wroc.pl|approx
+Agricultural University of Poznan|Poland|||||||||au.poznan.pl|approx
+Collegium Civitas|Poland|||||||||collegium.edu.pl|approx
+Catholic University of Lublin|Poland|||||||||kul.lublin.pl|approx
+Polish-Japanese Institute of Information Technology in Warsaw|Poland|||||||||pjwstk.edu.pl|approx
+Poznan University of Life Sciences|Poland|||||||||puls.edu.pl|approx
+Christian Theological Academy in Warszaw|Poland|||||||||chat.edu.pl|approx
+Józef Tyszkiewicz College of Business and Computer Science in Bielsko-Biala|Poland|||||||||tyszkiewicz.edu.pl|approx
+Nicolaus Copernicus University of Torun|Poland|||||||||uni.torun.pl|approx
+University of Warsaw|Poland|||||||||uw.edu.pl|approx
+Ryszard Lazarski University of Commerce and Law in Warsaw|Poland|||||||||wship.edu.pl|approx
+Pedagogical University of Czestochowa|Poland|||||||||wsp.czest.pl|approx
+School of Banking and Management in Cracow|Poland|||||||||wszib.krakow.pl|approx
+Escola Superior de Hotelaria e Turismo do Estoril|Portugal|||||||||eshte.pt|approx
+Instituto Politécnico de Castelo Branco|Portugal|||||||||ipcb.pt|approx
+Instituto Politécnico de Santarém|Portugal|||||||||ipsantarem.pt|approx
+ISCTE - Instituto Universitário de Lisboa|Portugal|||||||||iscte.pt|approx
+Instituto Superior de Entre Douro e Vouga|Portugal|||||||||isvouga.com|approx
+Universidade de Coimbra|Portugal|||||||||uc.pt|approx
+Universidade do Minho|Portugal|||||||||uminho.pt|approx
+Universidade de Tras-os-Montes e Alto Douro|Portugal|||||||||utad.pt|approx
+Universidad Interamericana de Puerto Rico|Puerto Rico|||||||||inter.edu|approx
+Universidad Central del Caribe|Puerto Rico|||||||||uccaribe.edu|approx
+Universidad de Puerto Rico, Rio Pedras|Puerto Rico|||||||||uprrp.edu|approx
+AISTEDA|Romania|||||||||aistedaab.ro|approx
+Academia Tehnica Militara|Romania|||||||||mta.ro|approx
+Spiru Haret University|Romania|||||||||spiruharet.ro|approx
+North University of Baia Mare|Romania|||||||||ubm.ro|approx
+University of Medicine and Pharmacy of Timisoara|Romania|||||||||umft.ro|approx
+Maritime University Constanta|Romania|||||||||universitateamaritima.ro|approx
+Petru Maior University of Targu Mures|Romania|||||||||upm.ro|approx
+University "Titu Maiorescu"|Romania|||||||||utm.ro|approx
+Astrahan State Medical Academy|Russia|||||||||agma.astranet.ru|approx
+Astrahan State Technical University|Russia|||||||||astu.org|approx
+Belgorod State Agricultural Academy|Russia|||||||||bsaa.ru|approx
+Novosibirsk State Music Academy M. Glinka|Russia|||||||||conservatoire.ru|approx
+Far Eastern State University|Russia|||||||||dvgu.ru|approx
+Far Eastern State Technical University|Russia|||||||||festu.ru|approx
+St. Petersburg State Institute of Technology (Technological University)|Russia|||||||||gti.spb.ru|approx
+Shemyakin–Ovchinnikov Institute of bioorganic chemistry RAS|Russia|||||||||ibch.ru|approx
+Irkutsk State Academy of Economics|Russia|||||||||isea.irk.ru|approx
+Yaroslavl International University of Business and New Technologies|Russia|||||||||iubnt.yar.ru|approx
+Immanuel Kant State University of Russia|Russia|||||||||kantiana.ru|approx
+Far Easten State University of Humanities|Russia|||||||||khspu.ru|approx
+Kursk State Medical University|Russia|||||||||ksmu.kursknet.ru|approx
+Kuban State University|Russia|||||||||kubsu.ru|approx
+St. Petersburg State Medical Academy|Russia|||||||||mechnik.spb.ru|approx
+Moscow State University of Forestry Engineering|Russia|||||||||mgul.ac.ru|approx
+Moscow State Institute of Steel and Alloys|Russia|||||||||misis.ru|approx
+Moscow State Textile University A.N. Kosygin|Russia|||||||||msta.ac.ru|approx
+Mendeleev Russian University of Chemical Technology|Russia|||||||||muctr.edu.ru|approx
+Nizhny Novgorod State Academy of Medicine|Russia|||||||||n-nov.mednet.com|approx
+North-West State Technical University|Russia|||||||||nwpi.ru|approx
+People' s Friendship University of Russia|Russia|||||||||pfu.edu.ru|approx
+Perm State University|Russia|||||||||psu.ru|approx
+Rostov State University|Russia|||||||||rsu.ru|approx
+Saratov State Agrarian University|Russia|||||||||sgau.ru|approx
+St. Petersburg State University of Architecture and Civil Engineering|Russia|||||||||spbgasu.ru|approx
+St. Petersburg State Chemical Pharmaceutical Academy|Russia|||||||||spcpa.ru|approx
+Siberian State Medical University|Russia|||||||||ssmu.ru|approx
+Lipeck State Technical University|Russia|||||||||stu.lipetsk.ru|approx
+Tyumen State Agricultural Academy|Russia|||||||||tgsha.ru|approx
+Tomsk State Pedagogical University|Russia|||||||||tspu.edu.ru|approx
+Ryazan State Pedagogical University|Russia|||||||||ttc.ryazan.ru|approx
+Yugra State University|Russia|||||||||ugrasu.ru|approx
+Udmurt State University|Russia|||||||||uni.udm.ru|approx
+Ural State Academy of Railway Transport|Russia|||||||||usart.ru|approx
+Ulyanovsk Higher School of Civil Aviation|Russia|||||||||uvauga.ru|approx
+Volgograd State University|Russia|||||||||volsu.ru|approx
+Volgograd State Pedagogical University|Russia|||||||||vspu.ru|approx
+Moscow University for Industry and Finance “Synergy”|Russia|||||||||synergy.ru|approx
+School of Finance and Banking|Rwanda|||||||||sfb.ac.rw|approx
+Spartan University of Health Sciences|Saint Lucia|||||||||spartanmed.org|approx
+Al-Yamamah College|Saudi Arabia|Riyadh||||||||alyamamah.edu.sa|approx
+Dar Al-Uloom Colleges|Saudi Arabia|Riyadh||||||||dau.edu.sa|approx
+Islamic University of Medinah|Saudi Arabia|Medinah||||||||iu.edu.sa|approx
+King Fahd Security College|Saudi Arabia|Riyadh||||||||kfsc.edu.sa|approx
+Majmaah University|Saudi Arabia|Al Majma'ah||||||||mu.edu.sa|approx
+Prince Sultan University|Saudi Arabia|Riyadh||||||||psu.edu.sa|approx
+Taibah University|Saudi Arabia|Medina||||||||taibahu.edu.sa|approx
+Yanbu Industrial College|Saudi Arabia|Yanbu||||||||yic.edu.sa|approx
+Université Euro-Afrique|Senegal|||||||||uea.edu.sn|approx
+University of Kragujevac|Serbia|||||||||kg.ac.rs|approx
+International University of Novi Pazar|Serbia|||||||||uninp.edu.rs|approx
+Aventis School of Management|Singapore|||||||||aventis.edu.sg|approx
+Singapore University of Social Sciences|Singapore|||||||||suss.edu.sg|approx
+Republic Polytechnic|Singapore|||||||||rp.edu.sg|approx
+Catholic University in Ruzomberok|Slovakia|||||||||ku.sk|approx
+Technical University in Zvolen|Slovakia|||||||||tuzvo.sk|approx
+University of Zilinska|Slovakia|||||||||uniza.sk|approx
+University of Nova Gorica|Slovenia|||||||||ung.si|approx
+East Africa University Bosaso|Somalia|||||||||eastafricauniversity.net|approx
+Nugaal University|Somalia|||||||||nugaaluniversity.com|approx
+Nelson Mandela University|South Africa|Eastern Cape Province||||||||mandela.ac.za|approx
+University of Limpopo|South Africa|Limpopo Province||||||||ul.ac.za|approx
+Vaal University of Technology|South Africa|Gauteng Province||||||||vut.ac.za|approx
+American International School of Cape Town|South Africa|Western Cape Province||||||||aisct.org|approx
+Escuela Superior de Gestion Comercial y Marketing (ESIC)|Spain|||||||||esic.es|approx
+Universitat Autónoma de Barcelona|Spain|||||||||uab.es|approx
+Universidad Carlos III de Madrid|Spain|||||||||uc3m.es|approx
+Universidad Católica de Valencia|Spain|||||||||ucv.es|approx
+Universidad Internacional de Andalucía|Spain|||||||||uia.es|approx
+Universidad de Málaga|Spain|||||||||uma.es|approx
+Universidad Loyola Andalucía|Spain|||||||||uloyola.es|approx
+Universidad de Zaragoza|Spain|||||||||unizar.es|approx
+Universidad Pablo de Olavide|Spain|||||||||upo.es|approx
+Universidad de Sevilla|Spain|||||||||us.es|approx
+Buddhist and Pali University of Sri Lanka|Sri Lanka|||||||||bpu.ac.lk|approx
+University of Peradeniya|Sri Lanka|||||||||pdn.ac.lk|approx
+Sri Lanka Institute of Advanced Technical Education|Sri Lanka|||||||||sliate.net|approx
+ESOFT Uni|Sri Lanka|Western Province||||||||esoft.academy|approx
+University of El Imam El Mahdi University|Sudan|||||||||elmahdi.edu.sd|approx
+University of Kordofan|Sudan|||||||||kordofan.edu.sd|approx
+National Ribat University|Sudan|||||||||ribat.edu.sd|approx
+University of Gezira|Sudan|||||||||uofg.edu.sd|approx
+Dalarna University College|Sweden|||||||||du.se|approx
+Kalmar University College|Sweden|||||||||hik.se|approx
+KTH Royal Institute of Technology|Sweden|||||||||kth.se|approx
+Nordic School of Public Health|Sweden|||||||||nhv.se|approx
+Växjö University|Sweden|||||||||vxu.se|approx
+Lausanne Hotel School (EHL)|Switzerland|||||||||ehl.ch|approx
+Glion Institute of Higher Education|Switzerland|||||||||glion.edu|approx
+Les Roches Gruyère University of Applied Sciences|Switzerland|||||||||lrguas.ch|approx
+Webster University Geneva|Switzerland|||||||||webster.ch|approx
+Universität Zürich|Switzerland|||||||||uzh.ch|approx
+FHNW - Fachhochschule Nordwestschweiz|Switzerland|||||||||fhnw.ch|approx
+Hochschule Luzern|Switzerland|||||||||hslu.ch|approx
+PHGR - University of Teacher Education Graubünden|Switzerland|||||||||ph-gr.ch|approx
+CHUV - University Hospital Lausanne|Switzerland|||||||||chuv.ch|approx
+Damascus University|Syrian Arab Republic|||||||||damascusuniversity.edu.sy|approx
+University of Kalamoon|Syrian Arab Republic|||||||||uok.edu.sy|approx
+Chung Hua University|Taiwan, Province of China|||||||||chu.edu.tw|approx
+Da-Yeh University|Taiwan, Province of China|||||||||dyu.edu.tw|approx
+Kung Shan Institute of Technology|Taiwan, Province of China|||||||||ksit.edu.tw|approx
+National Chi Nan University|Taiwan, Province of China|||||||||ncnu.edu.tw|approx
+National Hualien Teachers College|Taiwan, Province of China|||||||||nhltc.edu.tw|approx
+National Pingtung University of Science and Technology|Taiwan, Province of China|||||||||npust.edu.tw|approx
+National Taiwan Normal University|Taiwan, Province of China|||||||||ntnu.edu.tw|approx
+National University of Kaohsiung|Taiwan, Province of China|||||||||nuk.edu.tw|approx
+St. John's & St. Mary's Institute of Technology|Taiwan, Province of China|||||||||sjsmit.edu.tw|approx
+Tainan National College of the Arts|Taiwan, Province of China|||||||||tnca.edu.tw|approx
+Tajik National University|Tajikistan|||||||||tgnu.tarena.tj|approx
+Mount Meru University|Tanzania, United Republic of|||||||||mmu.ac.tz|approx
+St. Joseph Group of Institutes|Tanzania, United Republic of|||||||||stjosephsgroup.org|approx
+Asian University of Science and Technology|Thailand|Chon Buri||||||||asianust.ac.th|approx
+Chiang Mai Vocational College|Thailand|Chiang Mai||||||||cmvc.ac.th|approx
+International Buddhist College|Thailand|SongKhla||||||||ibc.ac.th|approx
+Lampang Vocational College|Thailand|Lampang||||||||lampangvc.ac.th|approx
+Maejo University|Thailand|Chiang Mai||||||||mju.ac.th|approx
+Naresuan University|Thailand|Phitsanulok||||||||nu.ac.th|approx
+Shinawatra University|Thailand|Pathum Thani||||||||shinawatra.ac.th|approx
+Srinakharinwirot University|Thailand|Bangkok||||||||swu.ac.th|approx
+Nation University|Thailand|Lampang||||||||nation.ac.th|approx
+Université de 7 Novembre à Carthage|Tunisia|||||||||u7nc.uvt.rnu.tn|approx
+University of Aviation and Technology|Tunisia|||||||||unat.ens.tn|approx
+Adnan Menderes University|Turkey|||||||||adu.edu.tr|approx
+Atilim University|Turkey|||||||||atilim.edu.tr|approx
+Bilkent University|Turkey|||||||||bilkent.edu.tr|approx
+Turkish Naval Academy|Turkey|||||||||dho.edu.tr|approx
+Fenerbahce University|Turkey|||||||||fbu.edu.tr|approx
+Hacettepe University|Turkey|||||||||hun.edu.tr|approx
+Kafkas University|Turkey|||||||||kafkas.edu.tr|approx
+Karadeniz Technical University|Turkey|||||||||ktu.edu.tr|approx
+Omer Halisdemir University|Turkey|||||||||ohu.edu.tr|approx
+Sabanci University|Turkey|||||||||sabanciuniv.edu|approx
+Ufuk University|Turkey|||||||||ufuk.edu.tr|approx
+Afyon Kocatepe University|Turkey|Afyonkarahisar||||||||aku.edu.tr|approx
+Charisma University|Turks and Caicos Islands|||||||||charismauniversity.org|approx
+Kyambogo University|Uganda|||||||||kyu.ac.ug|approx
+Uganda Christian University|Uganda|||||||||ucu.ac.ug|approx
+Dnepropetrovsk National University|Ukraine|||||||||dnu.dp.ua|approx
+Kharkiv National University of Economics|Ukraine|||||||||hneu.edu.ua|approx
+National Technical University (Kharkiv Polytechnical Institute)|Ukraine|||||||||kpi.kharkov.ua|approx
+Luhansk Taras Shevchenko National Pedagogical University|Ukraine|||||||||lgpu.lg.ua|approx
+National Medical University O.O. Bogomolets|Ukraine|||||||||nmu.edu.ua|approx
+Odessa National Marine University|Ukraine|||||||||osmu.odessa.ua|approx
+Ternopil Academy of National Economy|Ukraine|||||||||tane.edu.ua|approx
+Kherson State University|Ukraine|||||||||university.kherson.ua|approx
+Vinnica National Technical University|Ukraine|||||||||vstu.vinnica.ua|approx
+Alain University of Science and Technology|UAE|||||||||alainuniversity.ac.ae|approx
+Rochester Institute of Technology, Dubai|UAE|||||||||dubai.rit.edu|approx
+Al Khawarizmi International College|UAE|||||||||khawarizmi.com|approx
+Skyline University College, Sharjah|UAE|||||||||skylineuniversity.com|approx
+University of Aberdeen|United Kingdom|||||||||abdn.ac.uk|approx
+University of Bath|United Kingdom|||||||||bath.ac.uk|approx
+Bournemouth University|United Kingdom|||||||||bournemouth.ac.uk|approx
+Buckinghamshire New University|United Kingdom|||||||||bucks.ac.uk|approx
+Courtauld Institute of Art, University of London|United Kingdom|||||||||courtauld.ac.uk|approx
+Edge Hill University|United Kingdom|||||||||edgehill.ac.uk|approx
+University of Glamorgan|United Kingdom|||||||||glam.ac.uk|approx
+Liverpool Hope University College|United Kingdom|||||||||hope.ac.uk|approx
+Institute of Education, University of London|United Kingdom|||||||||ioe.ac.uk|approx
+Loughborough University|United Kingdom|||||||||lboro.ac.uk|approx
+Liverpool John Moores University|United Kingdom|||||||||ljmu.ac.uk|approx
+Middlesex University - London|United Kingdom|||||||||mdx.ac.uk|approx
+University of Nottingham|United Kingdom|||||||||nottingham.ac.uk|approx
+Royal Academy of Music, University of London|United Kingdom|||||||||ram.ac.uk|approx
+Roehampton University of Surrey|United Kingdom|||||||||roehampton.ac.uk|approx
+Sheffield Hallam University|United Kingdom|||||||||shu.ac.uk|approx
+University of St. Andrews|United Kingdom|||||||||st-andrews.ac.uk|approx
+Trinity College of Music|United Kingdom|||||||||tcm.ac.uk|approx
+University of East London|United Kingdom|||||||||uel.ac.uk|approx
+University of Wales Institute, Cardiff|United Kingdom|||||||||uwic.ac.uk|approx
+University of Worcester|United Kingdom|||||||||worc.ac.uk|approx
+Cardiff and Vale College|United Kingdom|||||||||cavc.ac.uk|approx
+Ferghana Politechnical Institute|Uzbekistan|||||||||ferpi.dem.ru|approx
+Samarkand State University|Uzbekistan|||||||||samdu.uz|approx
+Tashkent Medical Academy|Uzbekistan|||||||||tma.uz|approx
+Universidad Católica Andres Bello|Venezuela, Bolivarian Republic of|||||||||ucab.edu.ve|approx
+Universidad José Antonio Páez|Venezuela, Bolivarian Republic of|||||||||ujap.edu.ve|approx
+Universidad Nacional Experimental de los Llanos Occidentales "Ezequiel Zamora"|Venezuela, Bolivarian Republic of|||||||||unellez.edu.ve|approx
+Universidad Metropolitana|Venezuela, Bolivarian Republic of|||||||||unimet.edu.ve|approx
+Universidad Valle del Momboy|Venezuela, Bolivarian Republic of|||||||||uvm.edu.ve|approx
+FPT University|Viet Nam|||||||||fpt.edu.vn|approx
+Ho Chi Minh City University of Social Sciences and Humanities|Viet Nam|||||||||hcmussh.edu.vn|approx
+Hue University|Viet Nam|||||||||hueuni.edu.vn|approx
+Hanoi National Economics University|Viet Nam|||||||||neu.edu.vn|approx
+Hanoi Univerisity of Transportation|Viet Nam|||||||||uct.edu.vn|approx
+Vietnamese - German University|Viet Nam|||||||||vgu.edu.vn|approx
+Hadhramout University of Science and Technology|Yemen|||||||||hust.edu.ye|approx
+Copperbelt University|Zambia|||||||||cbu.edu.zm|approx
+Chinhoyi University of Technology|Zimbabwe|||||||||cut.ac.zw|approx
+Solusi University|Zimbabwe|||||||||solusi.ac.zw|approx
+Agri Ibrahim Cecen University|Turkey|||||||||agri.edu.tr|approx
+Bartin University|Turkey|||||||||bartin.edu.tr|approx
+Duzce University|Turkey|||||||||duzce.edu.tr|approx
+Hitit University|Turkey|||||||||hitit.edu.tr|approx
+Kastamonu University|Turkey|||||||||kastamonu.edu.tr|approx
+Osmaniye Korkut Ata University|Turkey|||||||||osmaniye.edu.tr|approx
+Bulent Ecevit University|Turkey|||||||||beun.edu.tr|approx
+Hasan Kalyoncu University|Turkey|||||||||hku.edu.tr|approx
+Istanbul Sabahattin Zaim University|Turkey|||||||||iszu.edu.tr|approx
+Piri Reis University|Turkey|||||||||pirireis.edu.tr|approx
+Bevill State Community College|USA|||||||||bscc.edu|approx
+George C Wallace State Community College-Hanceville|USA|||||||||wallacestate.edu|approx
+Lurleen B Wallace Community College|USA|||||||||lbwcc.edu|approx
+Prince William Sound College|USA|||||||||pwsc.alaska.edu|approx
+Minerva University|USA|California||||||||minerva.edu|approx
+Scottsdale Community College|USA|||||||||scottsdalecc.edu|approx
+Black River Technical College|USA|||||||||blackrivertech.edu|approx
+Ozarka College|USA|||||||||ozarka.edu|approx
+University of Arkansas Community College-Hope|USA|||||||||uacch.edu|approx
+Butte College|USA|||||||||butte.edu|approx
+Citrus College|USA|||||||||citruscollege.edu|approx
+College of the Redwoods|USA|||||||||redwoods.edu|approx
+Crafton Hills College|USA|||||||||craftonhills.edu|approx
+El Camino Community College District|USA|||||||||elcamino.edu|approx
+Lassen Community College|USA|||||||||lassencollege.edu|approx
+Los Angeles Trade Technical College|USA|||||||||lattc.edu|approx
+Modesto Junior College|USA|||||||||mjc.edu|approx
+Ohlone College|USA|||||||||ohlone.edu|approx
+Rio Hondo College|USA|||||||||riohondo.edu|approx
+San Joaquin Delta College|USA|||||||||deltacollege.edu|approx
+Shasta College|USA|||||||||shastacollege.edu|approx
+West Hills College-Coalinga|USA|||||||||westhillscollege.com|approx
+Community College of Aurora|USA|||||||||ccaurora.edu|approx
+Pueblo Community College|USA|||||||||pueblocc.edu|approx
+Middlesex Community College|USA|||||||||mxcc.commnet.edu|approx
+Delaware Technical Community College|USA|||||||||dtcc.edu|approx
+Athens Technical College|USA|||||||||athenstech.edu|approx
+Georgia Highlands College|USA|||||||||highlands.edu|approx
+North Georgia Technical College|USA|||||||||northgatech.edu|approx
+West Georgia Technical College|USA|||||||||westgatech.edu|approx
+College of Southern Idaho|USA|||||||||csi.edu|approx
+College of Lake County|USA|||||||||www.clcillinois.edu|approx
+Illinois Valley Community College|USA|||||||||ivcc.edu|approx
+Lewis and Clark Community College|USA|||||||||lc.edu|approx
+Parkland College|USA|||||||||parkland.edu|approx
+South Suburban College|USA|||||||||ssc.edu|approx
+Hawkeye Community College|USA|||||||||hawkeyecollege.edu|approx
+North Iowa Area Community College|USA|||||||||niacc.edu|approx
+Cloud County Community College|USA|||||||||cloud.edu|approx
+North Central Kansas Technical College|USA|||||||||ncktc.edu|approx
+Elizabethtown Community and Technical College|USA|||||||||elizabethtown.kctcs.edu|approx
+Maysville Community and Technical College|USA|||||||||maysville.kctcs.edu|approx
+Delgado Community College|USA|||||||||dcc.edu|approx
+SOWELA Technical Community College|USA|||||||||sowela.edu|approx
+York County Community College|USA|||||||||yccc.edu|approx
+Wor-Wic Community College|USA|||||||||worwic.edu|approx
+Massasoit Community College|USA|||||||||massasoit.mass.edu|approx
+Springfield Technical Community College|USA|||||||||stcc.edu|approx
+Grand Rapids Community College|USA|||||||||grcc.edu|approx
+Lansing Community College|USA|||||||||lcc.edu|approx
+Saginaw Chippewa Tribal College|USA|||||||||sagchip.edu|approx
+Anoka-Ramsey Community College|USA|||||||||anokaramsey.edu|approx
+Inver Hills Community College|USA|||||||||inverhills.edu|approx
+Normandale Community College|USA|||||||||normandale.edu|approx
+Rochester Community and Technical College|USA|||||||||rctc.edu|approx
+Olin College of Engineering|USA|||||||||students.olin.edu|approx
+Mississippi Delta Community College|USA|||||||||msdelta.edu|approx
+Jefferson College|USA|||||||||jeffco.edu|approx
+Southeast Missouri Hospital College of Nursing and Health Sciences|USA|||||||||southeastmissourihospitalcollege.edu|approx
+Dawson Community College|USA|||||||||dawson.edu|approx
+Central Community College|USA|||||||||cccneb.edu|approx
+Truckee Meadows Community College|USA|||||||||tmcc.edu|approx
+Assumption College for Sisters|USA|||||||||acs350.org|approx
+Gloucester County College|USA|||||||||gccnj.edu|approx
+Union County College|USA|||||||||ucc.edu|approx
+New Mexico Military Institute|USA|||||||||nmmi.edu|approx
+American Academy of Dramatic Arts-New York|USA|||||||||aada.edu|approx
+CUNY Kingsborough Community College|USA|||||||||kbcc.cuny.edu|approx
+CUNY Medgar Evers College|USA|NY||||||||mec.cuny.edu|approx
+Hudson Valley Community College|USA|||||||||hvcc.edu|approx
+Onondaga Community College|USA|||||||||sunyocc.edu|approx
+SUNY Westchester Community College|USA|||||||||sunywcc.edu|approx
+Blue Ridge Community College|USA|||||||||blueridge.edu|approx
+Central Piedmont Community College|USA|||||||||cpcc.edu|approx
+Fayetteville Technical Community College|USA|||||||||faytechcc.edu|approx
+Johnston Community College|USA|||||||||johnstoncc.edu|approx
+Pamlico Community College|USA|||||||||pamlicocc.edu|approx
+Rowan-Cabarrus Community College|USA|||||||||rccc.edu|approx
+Tri-County Community College|USA|||||||||tricountycc.edu|approx
+Lake Region State College|USA|||||||||lrsc.edu|approx
+Columbus State Community College|USA|||||||||cscc.edu|approx
+Lorain County Community College|USA|||||||||lorainccc.edu|approx
+Terra State Community College|USA|||||||||terra.edu|approx
+Northeastern Oklahoma A&M College|USA|||||||||neo.edu|approx
+Blue Mountain Community College|USA|||||||||bluecc.edu|approx
+Linn-Benton Community College|USA|||||||||linnbenton.edu|approx
+Butler County Community College|USA|||||||||bc3.edu|approx
+Lehigh Carbon Community College|USA|||||||||lccc.edu|approx
+Thaddeus Stevens College of Technology|USA|||||||||stevenscollege.edu|approx
+Greenville Technical College|USA|||||||||gvltec.edu|approx
+Technical College of the Lowcountry|USA|||||||||tcl.edu|approx
+Sisseton Wahpeton College|USA|||||||||swc.tc|approx
+John A Gupton College|USA|||||||||guptoncollege.edu|approx
+Alvin Community College|USA|||||||||alvincollege.edu|approx
+Cisco College|USA|||||||||cisco.edu|approx
+El Paso Community College|USA|||||||||epcc.edu|approx
+Kilgore College|USA|||||||||kilgore.edu|approx
+Navarro College|USA|||||||||navarrocollege.edu|approx
+Richland College|USA|||||||||richlandcollege.edu|approx
+Texas State Technical College-West Texas|USA|||||||||westtexas.tstc.edu|approx
+Latter-day Saints Business College|USA|||||||||ldsbc.edu|approx
+Germanna Community College|USA|||||||||germanna.edu|approx
+Paul D Camp Community College|USA|||||||||pdc.edu|approx
+Virginia Highlands Community College|USA|||||||||vhcc.edu|approx
+Clover Park Technical College|USA|||||||||cptc.edu|approx
+Renton Technical College|USA|||||||||rtc.edu|approx
+Wenatchee Valley College|USA|||||||||wvc.edu|approx
+Mountwest Community and Technical College|USA|||||||||mctc.edu|approx
+Gateway Technical College|USA|||||||||gtc.edu|approx
+Northcentral Technical College|USA|||||||||ntc.edu|approx
+Central Wyoming College|USA|||||||||cwc.edu|approx
+ENAE Business School|Spain|||||||||enae.es|approx
+Duale Hochschule Baden-Württemberg Stuttgart|Germany|null||||||||dhbw-stuttgart.de|approx
+University of Michigan-Flint|USA|MI||||||||umflint.edu|approx
+Kodiak College|USA|||||||||koc.alaska.edu|approx
+Polk State College|USA|||||||||polk.edu|approx
+Ashford University|USA|||||||||ashford.edu|approx
+Xihua University|China|Si Chuan||||||||xhu.edu.cn|approx
+Toronto Metropolitan University|Canada|Ontario||||||||torontomu.ca|approx
+Instituto Infnet|Brazil|Rio de Janeiro||||||||infnet.edu.br|approx
+Ostbayerische Technische Hochschule Amberg-Weiden|Germany|||||||||oth-aw.de|approx
+Universidade Franciscana|Brazil|||||||||ufn.edu.br|approx
+Izmir Bakırçay University|Turkey|||||||||bakircay.edu.tr|approx
+Midwestern University|USA|||||||||midwestern.edu|approx
+Florida SouthWestern State College|USA|||||||||fsw.edu|approx
+KIET Group of Institutions|India|||||||||kiet.edu|approx
+Bellevue College|USA|Washington||||||||bellevuecollege.edu|approx
+Hochschule für Musik Carl Maria von Weber|Germany|Saxony||||||||hfmdd.de|approx
+Europa-Universität Viadrina|Germany|Brandenburg||||||||europa-uni.de|approx
+Pennsylvania State University - Harrisburg|USA|||||||||harrisburg.psu.edu|approx
+Alcorn State University|USA|||||||||alcorn.edu|approx
+Bethune-Cookman University|USA|||||||||cookman.edu|approx
+Fort Valley State University|USA|||||||||fvsu.edu|approx
+Johnson C Smith Theological Seminary *|USA|||||||||smithseminary.org|approx
+Miles College|USA|||||||||miles.edu|approx
+Rust College|USA|||||||||rustcollege.edu|approx
+St. Augustine's University|USA|||||||||st-aug.edu|approx
+West Virginia State University|USA|||||||||wvstate.edu|approx
+Eada Business School Barcelona|Spain|||||||||eada.edu|approx
+Académie de Mayotte|France|Mayotte||||||||ac-mayotte.fr|approx
+North-West Univeristy|South Africa|||||||||student.g.nwu.ac.za|approx
+Cruzeiro do Sul University|Brazil|||||||||aluno.cruzeirodosul.edu.br|approx
+Bishop Herber College|India|||||||||bhc.edu.in|approx
+NOVA School of Science and Technology|Portugal|||||||||campus.fct.unl.pt|approx
+Covenant College|USA|||||||||covenant.edu|approx
+St Joseph's Institute Of Technology|India|Tamil Nadu||||||||stjosephstechnology.ac.in|approx
+Saveetha University|India|Tamil Nadu||||||||saveetha.com|approx
+RMK College of Engineering and Technology|India|Tamil Nadu||||||||rmkcet.ac.in|approx
+Siena College|USA|||||||||siena.edu|approx
+Universidade Virtual do Estado de São Paulo|Brazil|||||||||univesp.br|approx
+Université Paris-Saclay|France|||||||||universite-paris-saclay.fr|approx
+State Center Community College District|USA|||||||||scccd.edu|approx
+Universidad EAN|Colombia|||||||||universidadean.edu.co|approx
+Greensboro College|USA|||||||||greensboro.edu|approx
+Runshaw College|United Kingdom|||||||||runshaw.ac.uk|approx
+University of Turkish Aeronautical Association|Turkey|||||||||thk.edu.tr|approx
+Delaware Valley University|USA|||||||||delval.edu|approx
+George Fox University|USA|||||||||georgefox.edu|approx
+Tribhuvan University - Thapathali Campus|Nepal|Bagmati||||||||tcioe.edu.np|approx
+Université Pierre Mendès France|France|||||||||upmf-grenoble.fr|approx
+Dominican University|USA|Illinois||||||||dom.edu|approx
+Guru Nanak Institute of Hotel Management|India|||||||||gnihm.ac.in|approx
+Greater Kolkata College of Engineering & Management|India|||||||||gkcem.ac.in|approx
+Botswana Open University|Botswana|||||||||bou.ac.bw|approx
+American Business School of Paris|France|||||||||absparis.com|approx
+Assam Down Town University|India|||||||||adtu.in|approx
+Universidad de Ingeniería y Tecnología|Peru|||||||||utec.edu.pe|approx
+University of Cumbria|United Kingdom|||||||||cumbria.ac.uk|approx
+Florida Southern College|USA|||||||||flsouthern.edu|approx
+Pacific Northwest University of Health Sciences|USA|||||||||pnwu.edu|approx
+IT Park University|Uzbekistan|||||||||itpu.uz|approx
+Kristiania University College|Norway|Østlandet||||||||kristiania.no|approx
+University of Pikeville|USA|||||||||upike.edu|approx
+Louisiana State University - Shreveport|USA|Louisiana||||||||lsus.edu|approx
+Faculdade Do Instituto Nacional De Pós-Graduação - Faculdade INPG|Brazil|São Paulo||||||||inpg.edu.br|approx
+Technique Polytechnic Institute|India|West Bengal||||||||techniqueedu.com|approx
+KU Leuven|Belgium|Leuven||||||||student.kuleuven.be|approx
+Sri Konda Laxman Telangana State Horticultural University|India|Telangana||||||||skltshu.ac.in|approx
+University of Reading Malaysia|Malaysia|Johor||||||||reading.edu.my|approx
+Hanoi University|Vietnam|Hanoi||||||||hanu.edu.vn|approx
+Far Western University|Nepal|Sudurpaschim||||||||fwu.edu.np|approx
+Ion Mincu University of Architecture and Urban Planning|Romania|Bucharest-Ilfov||||||||uauim.ro|approx
+Khulna Agricultural University|Bangladesh|Khulna||||||||kau.ac.bd|approx

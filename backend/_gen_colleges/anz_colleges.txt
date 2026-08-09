@@ -1,0 +1,35 @@
+TAFE NSW|Australia|Sydney||5.5|43|61|2.0/4.0|8000|12000|tafensw.edu.au|approx
+TAFE Queensland|Australia|Brisbane||5.5|43|61|2.0/4.0|8500|12000|tafeqld.edu.au|approx
+Melbourne Polytechnic|Australia|Melbourne||5.5|43|61|2.0/4.0|9000|13000|melbournepolytechnic.edu.au|approx
+RMIT College of Vocational Education|Australia|Melbourne||5.5|43|61|2.0/4.0|10000|14000|rmit.edu.au|approx
+Holmesglen Institute|Australia|Melbourne||5.5|43|61|2.0/4.0|8500|12000|holmesglen.edu.au|approx
+William Angliss Institute|Australia|Melbourne||5.5|43|61|2.0/4.0|9000|12000|angliss.edu.au|approx
+Box Hill Institute|Australia|Melbourne||5.5|43|61|2.0/4.0|8000|11000|boxhill.edu.au|approx
+South Metropolitan TAFE|Australia|Perth||5.5|43|61|2.0/4.0|8000|12000|southmetrotafe.wa.edu.au|approx
+North Metropolitan TAFE|Australia|Perth||5.5|43|61|2.0/4.0|8000|12000|northmetrotafe.wa.edu.au|approx
+TAFE SA|Australia|Adelaide||5.5|43|61|2.0/4.0|7500|11000|tafesa.edu.au|approx
+Canberra Institute of Technology|Australia|Canberra||5.5|43|61|2.0/4.0|7000|10000|cit.edu.au|approx
+TasTAFE|Australia|Hobart||5.5|43|61|2.0/4.0|7500|10000|tastafe.tas.edu.au|approx
+Federation TAFE|Australia|Ballarat||5.5|43|61|2.0/4.0|7000|10000|federation.edu.au|approx
+Gordon Institute of TAFE|Australia|Geelong||5.5|43|61|2.0/4.0|7500|10000|thegordon.edu.au|approx
+Chisholm Institute|Australia|Melbourne||5.5|43|61|2.0/4.0|8000|11000|chisholm.edu.au|approx
+Kangan Institute|Australia|Melbourne||5.5|43|61|2.0/4.0|7500|10000|kangan.edu.au|approx
+Wodonga TAFE|Australia|Wodonga||5.5|43|61|2.0/4.0|7000|9500|wodongatafe.edu.au|approx
+GOTAFE|Australia|Shepparton||5.5|43|61|2.0/4.0|7000|9500|gotafe.edu.au|approx
+South West TAFE|Australia|Warrnambool||5.5|43|61|2.0/4.0|7000|9500|southwesttafe.edu.au|approx
+Bendigo TAFE|Australia|Bendigo||5.5|43|61|2.0/4.0|7000|9500|bendigotafe.edu.au|approx
+Sunraysia Institute of TAFE|Australia|Mildura||5.5|43|61|2.0/4.0|7000|9500|sunraysiatafe.edu.au|approx
+Open Colleges|Australia|Sydney||5.5|43|61|2.0/4.0|6000|9000|opencolleges.edu.au|approx
+Engineering Institute of Technology|Australia|Perth||6.0|50|71|2.0/4.0|10000|14000|eit.edu.au|approx
+Holmes Institute|Australia|Melbourne||5.5|43|61|2.0/4.0|9000|12000|holmes.edu.au|approx
+Melbourne City Institute of Education|Australia|Melbourne||5.5|43|61|2.0/4.0|8000|11000|mcie.edu.au|approx
+Otago Polytechnic|New Zealand|Dunedin||5.5|43|61|2.0/4.0|12000|18000|op.ac.nz|approx
+Ara Institute of Canterbury|New Zealand|Christchurch||5.5|43|61|2.0/4.0|12000|19000|ara.ac.nz|approx
+Toi Ohomai Institute of Technology|New Zealand|Tauranga||5.5|43|61|2.0/4.0|11500|18000|toiohomai.ac.nz|approx
+Unitec Institute of Technology|New Zealand|Auckland||5.5|43|61|2.0/4.0|13000|20000|unitec.ac.nz|approx
+Whitireia|New Zealand|Wellington||5.5|43|61|2.0/4.0|12000|18000|whitireia.ac.nz|approx
+Eastern Institute of Technology|New Zealand|Napier||5.5|43|61|2.0/4.0|11500|18000|eit.ac.nz|approx
+Manukau Institute of Technology|New Zealand|Auckland||5.5|43|61|2.0/4.0|12500|19000|manukau.ac.nz|approx
+Wellington Institute of Technology|New Zealand|Wellington||5.5|43|61|2.0/4.0|12000|18000|weltec.ac.nz|approx
+Waikato Institute of Technology|New Zealand|Hamilton||5.5|43|61|2.0/4.0|12000|18000|wintec.ac.nz|approx
+NorthTec|New Zealand|Whangarei||5.5|43|61|2.0/4.0|11000|17000|northtec.ac.nz|approx

@@ -1,0 +1,30 @@
+Humber College|Canada|Toronto||6.0|50|71|2.5/4.0|14000|19000|humber.ca|approx
+Seneca College|Canada|Toronto||6.0|50|80|2.5/4.0|13000|18000|senecapolytechnic.ca|approx
+George Brown College|Canada|Toronto||6.0|50|80|2.5/4.0|14000|19000|georgebrown.ca|approx
+Centennial College|Canada|Toronto||6.0|50|80|2.5/4.0|13000|18000|centennialcollege.ca|approx
+Sheridan College|Canada|Oakville||6.0|50|80|2.5/4.0|14000|19000|sheridancollege.ca|approx
+British Columbia Institute of Technology|Canada|Burnaby||6.5|60|84|2.5/4.0|15000|21000|bcit.ca|approx
+Fanshawe College|Canada|London||6.5|58|79|2.5/4.0|12000|16000|fanshawec.ca|approx
+Durham College|Canada|Oshawa||6.0|50|80|2.5/4.0|13000|17000|durhamcollege.ca|approx
+Southern Alberta Institute of Technology|Canada|Calgary||6.0|50|80|2.5/4.0|15000|19000|sait.ca|approx
+Northern Alberta Institute of Technology|Canada|Edmonton||6.0|50|80|2.5/4.0|15000|19000|nait.ca|approx
+Conestoga College|Canada|Kitchener||6.5|58|80|2.5/4.0|13000|18000|conestogac.on.ca|approx
+Mohawk College|Canada|Hamilton||6.0|50|80|2.5/4.0|13000|17000|mohawkcollege.ca|approx
+Vancouver Community College|Canada|Vancouver||6.0|50|80|2.5/4.0|12000|16000|vcc.ca|approx
+LaSalle College Montreal|Canada|Montreal||6.0|50|80|2.5/4.0|10000|15000|lasallecollege.com|approx
+Red River College Polytechnic|Canada|Winnipeg||6.5|58|79|2.5/4.0|13000|17000|rrc.ca|approx
+Algonquin College|Canada|Ottawa||6.0|50|80|2.5/4.0|13000|17000|algonquincollege.com|approx
+Niagara College|Canada|Welland||6.0|50|80|2.5/4.0|12000|16000|niagaracollege.ca|approx
+Georgian College|Canada|Barrie||6.0|50|80|2.5/4.0|13000|17000|georgiancollege.ca|approx
+Lambton College|Canada|Sarnia||6.5|58|79|2.5/4.0|13000|17000|lambtoncollege.ca|approx
+St. Clair College|Canada|Windsor||6.0|50|80|2.5/4.0|12000|16000|stclaircollege.ca|approx
+Fleming College|Canada|Peterborough||6.0|50|80|2.5/4.0|12000|16000|flemingcollege.ca|approx
+Loyalist College|Canada|Belleville||6.0|50|80|2.5/4.0|12000|16000|loyalistcollege.com|approx
+Cambrian College|Canada|Sudbury||6.0|50|80|2.5/4.0|12000|16000|cambriancollege.ca|approx
+Confederation College|Canada|Thunder Bay||6.0|50|80|2.5/4.0|12000|15000|confederationcollege.ca|approx
+Saskatchewan Polytechnic|Canada|Saskatoon||6.5|58|79|2.5/4.0|13000|17000|saskpolytech.ca|approx
+Bow Valley College|Canada|Calgary||6.0|50|80|2.5/4.0|13000|17000|bowvalleycollege.ca|approx
+Douglas College|Canada|New Westminster||6.0|50|80|2.5/4.0|13000|17000|douglascollege.ca|approx
+Langara College|Canada|Vancouver||6.5|58|79|2.5/4.0|12000|16000|langara.ca|approx
+Okanagan College|Canada|Kelowna||6.0|50|80|2.5/4.0|12000|16000|okanagan.bc.ca|approx
+Camosun College|Canada|Victoria||6.0|50|80|2.5/4.0|12000|16000|camosun.ca|approx

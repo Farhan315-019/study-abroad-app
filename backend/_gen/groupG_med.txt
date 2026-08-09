@@ -1,0 +1,21 @@
+Frederick University|Cyprus|Nicosia||6.0|50|75|2.5/4.0|8000|11000|frederick.ac.cy|approx
+European University Cyprus|Cyprus|Nicosia||6.0|51|75|2.5/4.0|9000|13000|euc.ac.cy|approx
+University of Central Lancashire Cyprus|Cyprus|Larnaca||6.0|51|75|2.5/4.0|8500|12000|uclancyprus.ac.cy|approx
+Near East University|Cyprus|Nicosia||6.0|55|79|2.5/4.0|7000|12000|neu.edu.tr|approx
+Girne American University|Cyprus|Kyrenia||6.0|51|75|2.5/4.0|7000|11000|gau.edu.tr|approx
+Cyprus International University|Cyprus|Nicosia||6.0|51|75|2.5/4.0|6500|10000|ciu.edu.tr|verified
+Kuwait International University|Kuwait|Kuwait City||6.0|50|75|2.5/4.0|9000|12000|kiu.edu.kw|approx
+American University of the Middle East|Kuwait|Kuwait City||6.0|50|75|2.5/4.0|10000|15000|aum.edu.kw|approx
+Australian College of Kuwait|Kuwait|Kuwait City||6.0|50|75|2.5/4.0|8000|11000|ack.edu.kw|approx
+Box Hill College Kuwait|Kuwait|Kuwait City||6.0|50|75|2.5/4.0|7000|9000|bhck.edu.kw|approx
+Kuwait Maastricht Business School|Kuwait|Salmiya||6.0|50|75|2.5/4.0|9000|12000|kmbs.edu.kw|verified
+American College of the Middle East|Kuwait|Kuwait City||6.0|50|75|2.5/4.0|8000|10000|acm.edu.kw|approx
+American University of Malta|Malta|Cospicua||6.0|50|75|2.5/4.0|10000|13000|aum.edu.mt|approx
+Global College Malta|Malta|Sliema||6.0|50|75|2.5/4.0|8000|10000|globalcollegemalta.com|approx
+Institute of Tourism Studies|Malta|Qawra||6.0|50|75|2.5/4.0|7000|9000|its.edu.mt|verified
+St Martin's Institute of Higher Education|Malta|Hamrun||6.0|50|75|2.5/4.0|7000|9000|stmartins.edu|approx
+Iceland Academy of the Arts|Iceland|Reykjavik||6.5|55|79|3.0/4.0|9000|12000|lhi.is|approx
+Holar University|Iceland|Holar||6.5|55|79|3.0/4.0|8000|10000|holar.is|approx
+Bifrost University|Iceland|Bifrost||6.5|55|79|3.0/4.0|8000|10000|bifrost.is|verified
+Agricultural University of Iceland|Iceland|Hvanneyri||6.5|55|79|3.0/4.0|8000|10000|lbhi.is|approx
+Sacred Heart University Luxembourg|Luxembourg|Luxembourg City||6.0|50|75|2.5/4.0|15000|20000|sacredheart.edu|verified

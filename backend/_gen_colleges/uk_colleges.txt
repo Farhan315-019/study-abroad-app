@@ -1,0 +1,30 @@
+City of Glasgow College|United Kingdom|Glasgow||5.0|40|50|2.0/4.0|9000|13000|cityofglasgowcollege.ac.uk|approx
+Westminster Kingsway College|United Kingdom|London||5.5|45|60|2.0/4.0|9500|14000|westking.ac.uk|verified
+South Thames College|United Kingdom|London||5.0|40|45|2.0/4.0|9000|12500|south-thames.ac.uk|approx
+Lambeth College|United Kingdom|London||5.0|40|45|2.0/4.0|9000|12000|lambethcollege.ac.uk|approx
+Leeds City College|United Kingdom|Leeds||5.5|45|60|2.0/4.0|10000|15000|leedscitycollege.ac.uk|verified
+Belfast Metropolitan College|United Kingdom|Belfast||5.5|45|60|2.0/4.0|9500|13000|belfastmet.ac.uk|verified
+City College Plymouth|United Kingdom|Plymouth||5.0|40|50|2.0/4.0|9000|12500|cityplym.ac.uk|approx
+Newcastle College|United Kingdom|Newcastle upon Tyne||5.5|45|60|2.0/4.0|9500|13500|ncl-coll.ac.uk|verified
+Brighton MET|United Kingdom|Brighton||5.0|40|50|2.0/4.0|9000|13000|brightonmet.ac.uk|approx
+Bournville College|United Kingdom|Birmingham||5.0|40|50|2.0/4.0|9000|12000|bournville.ac.uk|approx
+The Manchester College|United Kingdom|Manchester||5.5|45|60|2.0/4.0|9500|14000|tmc.ac.uk|verified
+City of Liverpool College|United Kingdom|Liverpool||5.0|40|50|2.0/4.0|9000|13000|liv-coll.ac.uk|approx
+The Sheffield College|United Kingdom|Sheffield||5.5|45|60|2.0/4.0|9500|13500|sheffcol.ac.uk|verified
+Nottingham College|United Kingdom|Nottingham||5.0|40|50|2.0/4.0|9000|12500|nottinghamcollege.ac.uk|approx
+Leicester College|United Kingdom|Leicester||5.0|40|45|2.0/4.0|9000|12000|leicestercollege.ac.uk|approx
+Coventry College|United Kingdom|Coventry||5.5|45|60|2.0/4.0|9500|13000|coventrycollege.ac.uk|verified
+City of Bristol College|United Kingdom|Bristol||5.0|40|50|2.0/4.0|9000|12500|cityofbristol.ac.uk|approx
+South & City College Birmingham|United Kingdom|Birmingham||5.0|40|45|2.0/4.0|9000|12000|southcity.ac.uk|approx
+Birmingham Metropolitan College|United Kingdom|Birmingham||5.0|40|50|2.0/4.0|9000|13000|bmetc.ac.uk|approx
+City and Islington College|United Kingdom|London||5.5|45|60|2.0/4.0|9500|14000|conel.ac.uk|verified
+Southwark College|United Kingdom|London||5.0|40|45|2.0/4.0|9000|12000|southwark.ac.uk|approx
+Tower Hamlets College|United Kingdom|London||5.0|40|45|2.0/4.0|9000|12000|towerhamlets.ac.uk|approx
+Waltham Forest College|United Kingdom|London||5.0|40|50|2.0/4.0|9000|12500|walthamforest.ac.uk|approx
+Croydon College|United Kingdom|Croydon||5.0|40|45|2.0/4.0|9000|12000|croydon.ac.uk|approx
+Kingston College|United Kingdom|London||5.5|45|60|2.0/4.0|9500|13000|kingstoncollege.ac.uk|verified
+Blackpool and The Fylde College|United Kingdom|Blackpool||5.0|40|50|2.0/4.0|9000|12500|blackpool.ac.uk|approx
+Preston's College|United Kingdom|Preston||5.0|40|45|2.0/4.0|9000|12000|prestons.ac.uk|approx
+Burnley College|United Kingdom|Burnley||5.5|45|60|2.0/4.0|9500|13000|burnley.ac.uk|verified
+St Helens College|United Kingdom|St Helens||5.0|40|45|2.0/4.0|9000|12000|sthelens.ac.uk|approx
+Derby College|United Kingdom|Derby||5.5|45|60|2.0/4.0|9500|14000|derby-college.ac.uk|verified

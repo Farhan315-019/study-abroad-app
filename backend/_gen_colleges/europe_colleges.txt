@@ -1,0 +1,45 @@
+TU Dublin|Ireland|Dublin||6.0|50|71|2.5/4.0|14000|18000|tudublin.ie|verified
+Munster Technological University|Ireland|Cork||6.0|50|71|2.5/4.0|13500|17500|mtu.ie|verified
+Atlantic Technological University|Ireland|Galway||6.0|50|71|2.5/4.0|13000|16500|atu.ie|verified
+Griffith College Dublin|Ireland|Dublin||5.5|43|61|2.5/4.0|13000|16000|griffith.ie|approx
+National College of Ireland|Ireland|Dublin||6.0|50|71|2.5/4.0|14000|16500|ncirl.ie|approx
+Rotterdam Business School|Netherlands|Rotterdam||6.0|50|71|2.5/4.0|10000|14000|rotterdambusinessschool.com|verified
+Saxion University of Applied Sciences|Netherlands|Enschede||6.0|50|71|2.5/4.0|10500|14500|saxion.edu|verified
+Avans University of Applied Sciences|Netherlands|Breda||6.0|50|71|2.5/4.0|10000|14000|avans.nl|approx
+Fontys University of Applied Sciences|Netherlands|Eindhoven||6.0|50|71|2.5/4.0|10000|15000|fontys.edu|approx
+The Hague University of Applied Sciences|Netherlands|The Hague||6.0|50|71|2.5/4.0|10000|14000|thehagueuniversity.com|verified
+Hochschule München|Germany|Munich||6.0|50|71|2.5/4.0|0|3000|hm.edu|verified
+Hochschule Anhalt|Germany|Köthen||6.0|50|71|2.5/4.0|0|2000|hs-anhalt.de|approx
+Rhine-Waal University of Applied Sciences|Germany|Kleve||6.0|50|71|2.5/4.0|0|2000|hochschule-rhein-waal.de|verified
+Hochschule Bremen|Germany|Bremen||6.0|50|71|2.5/4.0|0|2000|hs-bremen.de|approx
+TH Köln|Germany|Cologne||6.0|50|71|2.5/4.0|0|2500|th-koeln.de|verified
+ECE Paris|France|Paris||6.0|50|71|2.5/4.0|9000|12000|ece.fr|verified
+ISEP|France|Paris||6.0|50|71|2.5/4.0|8000|11000|isep.fr|approx
+Epitech|France|Paris||6.0|50|71|2.5/4.0|8000|11000|epitech.eu|verified
+ESIEE Paris|France|Noisy-le-Grand||6.0|50|71|2.5/4.0|7000|9000|esiee.fr|approx
+IUT de Lyon 1|France|Lyon||5.5|43|61|2.5/4.0|0|5000|iutlyon.univ-lyon1.fr|verified
+ESIC Business & Marketing School|Spain|Madrid||6.0|50|71|2.5/4.0|12000|16000|esic.edu|verified
+La Salle|Spain|Barcelona||6.0|50|71|2.5/4.0|8000|12000|salleurl.edu|approx
+EAE Business School|Spain|Madrid||6.5|53|79|3.0/4.0|13000|18000|eae.es|verified
+IE University|Spain|Madrid||6.5|53|79|3.0/4.0|25000|32000|ie.edu|verified
+Politecnico di Milano|Italy|Milan||6.0|50|71|2.5/4.0|4000|5000|polimi.it|verified
+Politecnico di Torino|Italy|Turin||6.0|50|71|2.5/4.0|2600|2900|polito.it|verified
+Bocconi University|Italy|Milan||6.0|50|79|3.0/4.0|14000|18000|unibocconi.it|verified
+Sapienza University of Rome|Italy|Rome||6.0|50|71|2.5/4.0|3000|4000|uniroma1.it|approx
+Copenhagen Business Academy|Denmark|Copenhagen||6.0|50|71|2.5/4.0|7000|10000|cphbusiness.dk|verified
+Copenhagen School of Design and Technology (KEA)|Denmark|Copenhagen||6.0|50|71|2.5/4.0|6500|11000|kea.dk|verified
+VIA University College|Denmark|Horsens||6.0|50|71|2.5/4.0|8000|10000|via.dk|verified
+University College of Northern Denmark|Denmark|Aalborg||6.0|50|71|2.5/4.0|7000|9000|ucn.dk|approx
+Jönköping University|Sweden|Jönköping||6.0|50|71|2.5/4.0|9000|14000|ju.se|verified
+KTH Royal Institute of Technology|Sweden|Stockholm||6.5|53|79|3.0/4.0|12000|16000|kth.se|verified
+Blekinge Institute of Technology|Sweden|Karlskrona||6.0|50|71|2.5/4.0|8000|12000|bth.se|approx
+Chalmers University of Technology|Sweden|Gothenburg||6.5|53|79|3.0/4.0|14000|16000|chalmers.se|verified
+Oslo Metropolitan University|Norway|Oslo||6.0|50|71|2.5/4.0|0|1000|oslomet.no|verified
+Western Norway University of Applied Sciences|Norway|Bergen||6.0|50|71|2.5/4.0|0|1000|hvl.no|approx
+BI Norwegian Business School|Norway|Oslo||6.0|50|71|2.5/4.0|15000|20000|bi.no|verified
+Zurich University of Applied Sciences (ZHAW)|Switzerland|Winterthur||6.0|50|71|2.5/4.0|2000|2500|zhaw.ch|verified
+HES-SO|Switzerland|Delémont||6.0|50|71|2.5/4.0|2000|2500|hes-so.ch|approx
+Bern University of Applied Sciences|Switzerland|Bern||6.0|50|71|2.5/4.0|1500|2000|bfh.ch|verified
+Istanbul Aydin University|Turkey|Istanbul||6.0|50|71|2.5/4.0|6000|9000|aydin.edu.tr|verified
+Bahcesehir University|Turkey|Istanbul||6.0|50|71|2.5/4.0|8000|12000|bahcesehir.edu.tr|verified
+Kadir Has University|Turkey|Istanbul||6.0|50|71|2.5/4.0|7000|10000|khas.edu.tr|approx

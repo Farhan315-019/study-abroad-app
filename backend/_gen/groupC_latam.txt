@@ -1,0 +1,30 @@
+Instituto Politecnico Nacional|Mexico|Mexico City|801|6.0|50|75|3.0/4.0|2500|5000|ipn.mx|approx
+Universidad de las Americas Puebla|Mexico|Puebla|601|6.0|52|79|3.0/4.0|9000|12000|udlap.mx|approx
+Universidad Anahuac|Mexico|Mexico City|1001|6.0|50|80|3.0/4.0|12000|18000|anahuac.mx|approx
+Benemerita Universidad Autonoma de Puebla|Mexico|Puebla|801|6.0|50|75|3.0/4.0|2000|4000|buap.mx|approx
+Universidad Autonoma de Nuevo Leon|Mexico|Monterrey|601|6.0|52|80|3.0/4.0|2000|3500|uanl.mx|approx
+Universidad de Guanajuato|Mexico|Guanajuato|1001|6.0|50|79|3.0/4.0|1800|3000|ugto.mx|approx
+Universidad Iberoamericana|Mexico|Mexico City|601|6.0|53|80|3.0/4.0|10000|15000|ibero.mx|approx
+Universidad de Sonora|Mexico|Hermosillo|1001|6.0|50|75|3.0/4.0|1500|2500|unison.mx|approx
+Universidad Veracruzana|Mexico|Xalapa|1001|6.0|50|75|3.0/4.0|1500|2500|uv.mx|approx
+Universidad Autonoma de Yucatan|Mexico|Merida|1001|6.0|50|75|3.0/4.0|1500|2500|uady.mx|approx
+Universidad Autonoma de Sinaloa|Mexico|Culiacan|1001|6.0|50|75|3.0/4.0|1200|2000|uas.edu.mx|approx
+Universidad de Colima|Mexico|Colima|1001|6.0|50|75|3.0/4.0|1200|2000|ucol.mx|verified
+Universidad Nacional de Rosario|Argentina|Rosario|601|6.0|50|80|3.0/4.0|0|500|unr.edu.ar|approx
+Universidad Nacional de Cuyo|Argentina|Mendoza|801|6.0|52|79|3.0/4.0|0|500|uncuyo.edu.ar|approx
+Universidad Austral|Argentina|Buenos Aires|1001|6.0|53|80|3.0/4.0|10000|15000|austral.edu.ar|approx
+Universidad de San Andres|Argentina|Buenos Aires|1001|6.5|55|80|3.0/4.0|11000|16000|udesa.edu.ar|approx
+Instituto Tecnologico de Buenos Aires|Argentina|Buenos Aires|1001|6.0|53|80|3.0/4.0|10000|14000|itba.edu.ar|approx
+Universidad Nacional de Mar del Plata|Argentina|Mar del Plata|1001|6.0|50|75|3.0/4.0|0|400|mdp.edu.ar|approx
+Universidad Nacional de Tucuman|Argentina|San Miguel de Tucuman|1001|6.0|50|75|3.0/4.0|0|400|unt.edu.ar|approx
+Universidad Nacional de Quilmes|Argentina|Bernal|1001|6.0|50|75|3.0/4.0|0|400|unq.edu.ar|verified
+Universidad Nacional del Litoral|Argentina|Santa Fe|1001|6.0|50|75|3.0/4.0|0|400|unl.edu.ar|approx
+Universidad Nacional de San Martin|Argentina|San Martin|1001|6.0|50|75|3.0/4.0|0|400|unsam.edu.ar|approx
+Universidad de Concepcion|Chile|Concepcion|601|6.0|52|80|3.0/4.0|4000|8000|udec.cl|approx
+Universidad Austral de Chile|Chile|Valdivia|801|6.0|50|79|3.0/4.0|4000|7000|uach.cl|approx
+Universidad Catolica de Valparaiso|Chile|Valparaiso|801|6.0|52|79|3.0/4.0|4000|7000|pucv.cl|approx
+Universidad de Talca|Chile|Talca|1001|6.0|50|75|3.0/4.0|3500|6000|utalca.cl|approx
+Universidad de La Frontera|Chile|Temuco|1001|6.0|50|75|3.0/4.0|3500|6000|ufrontera.cl|approx
+Universidad Diego Portales|Chile|Santiago|1001|6.0|53|80|3.0/4.0|6000|10000|udp.cl|verified
+Universidad Adolfo Ibanez|Chile|Santiago|801|6.5|55|85|3.0/4.0|10000|15000|uai.cl|approx
+Universidad de Antofagasta|Chile|Antofagasta|1001|6.0|50|75|3.0/4.0|3500|6000|uantof.cl|approx

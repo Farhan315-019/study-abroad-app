@@ -1,0 +1,18 @@
+Caucasus University|Georgia|Tbilisi||6.0|53|75|3.0/4.0|3500|6000|cu.edu.ge|approx
+Free University of Tbilisi|Georgia|Tbilisi||5.5|50|70|3.0/4.0|4000|6000|freeuni.edu.ge|approx
+Batumi Shota Rustaveli State University|Georgia|Batumi||5.5|50|72|3.0/4.0|2500|3500|bsu.edu.ge|approx
+Georgian American University|Georgia|Tbilisi||6.0|53|75|3.0/4.0|4000|5000|gau.edu.ge|approx
+International Black Sea University|Georgia|Tbilisi||6.0|53|75|3.0/4.0|3000|4500|ibsu.edu.ge|approx
+Kutaisi International University|Georgia|Kutaisi||6.0|53|79|3.0/4.0|4000|6000|kiu.edu.ge|verified
+Azerbaijan Technical University|Azerbaijan|Baku||5.5|50|70|3.0/4.0|2500|4000|aztu.edu.az|approx
+Azerbaijan University of Languages|Azerbaijan|Baku||6.0|53|75|3.0/4.0|2000|3500|adu.edu.az|approx
+Baku Engineering University|Azerbaijan|Baku||5.5|50|70|3.0/4.0|3500|5000|beu.edu.az|verified
+Azerbaijan Medical University|Azerbaijan|Baku||6.5|62|80|3.5/4.0|4000|6000|amu.edu.az|approx
+Ganja State University|Azerbaijan|Ganja||5.5|50|70|3.0/4.0|1500|2500|gdu.edu.az|approx
+Nakhchivan State University|Azerbaijan|Nakhchivan||5.5|50|70|3.0/4.0|1500|2500|ndu.edu.az|approx
+Alecu Russo Balti State University|Moldova|Balti||5.5|50|72|3.0/4.0|1500|2500|usarb.md|approx
+Comrat State University|Moldova|Comrat||5.5|50|70|3.0/4.0|1000|2000|kdu.md|approx
+Tiraspol State University|Moldova|Chisinau||5.5|50|70|3.0/4.0|1200|2200|ust.md|approx
+Moldova State University of Education|Moldova|Chisinau||5.5|50|72|3.0/4.0|1200|2000|upsc.md|verified
+Cahul State University|Moldova|Cahul||5.5|50|70|3.0/4.0|1000|1800|usch.md|approx
+University of European Political and Economic Studies|Moldova|Chisinau||5.5|50|70|3.0/4.0|1500|2500|uspee.md|approx

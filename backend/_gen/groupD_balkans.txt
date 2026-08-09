@@ -1,0 +1,42 @@
+Alexandru Ioan Cuza University of Iasi|Romania|Iasi|801|6.0|50|75|3.0/4.0|3000|5500|uaic.ro|verified
+West University of Timisoara|Romania|Timisoara|1001|6.0|50|75|3.0/4.0|2800|5000|uvt.ro|approx
+Politehnica University of Timisoara|Romania|Timisoara|1201|6.5|56|80|3.0/4.0|2500|4500|upt.ro|approx
+Transilvania University of Brasov|Romania|Brasov|1401|6.0|50|75|3.0/4.0|2500|4000|unitbv.ro|approx
+Lucian Blaga University of Sibiu|Romania|Sibiu|1501|6.0|50|75|3.0/4.0|2500|4000|ulbsibiu.ro|approx
+Technical University of Cluj-Napoca|Romania|Cluj-Napoca|901|6.0|50|75|3.0/4.0|3000|5500|utcluj.ro|approx
+University of Craiova|Romania|Craiova|1501|6.0|50|75|3.0/4.0|2200|3500|edu.ucv.ro|approx
+Dunarea de Jos University of Galati|Romania|Galati|1501|6.0|50|75|3.0/4.0|2500|4000|ugal.ro|approx
+Iuliu Hatieganu University of Medicine and Pharmacy|Romania|Cluj-Napoca|1001|6.5|56|80|3.5/4.0|6000|9000|umfcluj.ro|approx
+National University of Political Studies and Public Administration|Romania|Bucharest|1501|6.5|56|80|3.0/4.0|3000|5000|snspa.ro|approx
+American University in Bulgaria|Bulgaria|Blagoevgrad|1501|6.5|56|80|3.0/4.0|14000|22000|aubg.edu|verified
+Medical University of Varna|Bulgaria|Varna|1201|6.5|56|80|3.0/4.0|8000|12000|mu-varna.bg|approx
+University of National and World Economy|Bulgaria|Sofia|1501|6.0|50|75|3.0/4.0|3500|5000|unwe.bg|approx
+Technical University of Varna|Bulgaria|Varna|1501|6.0|50|75|3.0/4.0|3000|4500|tu-varna.bg|approx
+University of Ruse|Bulgaria|Ruse|1501|6.0|50|75|3.0/4.0|2500|4000|uni-ruse.bg|approx
+New Bulgarian University|Bulgaria|Sofia|1501|6.0|50|75|3.0/4.0|3000|5000|nbu.bg|approx
+Plovdiv University Paisii Hilendarski|Bulgaria|Plovdiv|1501|6.0|50|75|3.0/4.0|2500|4000|uni-plovdiv.bg|approx
+Varna Free University|Bulgaria|Varna|1501|6.0|50|75|3.0/4.0|2500|4000|vfu.bg|approx
+University of Kragujevac|Serbia|Kragujevac|1201|6.0|50|75|3.0/4.0|1500|3000|kg.ac.rs|verified
+University of Arts in Belgrade|Serbia|Belgrade|1501|6.0|50|75|3.0/4.0|2000|4000|arts.bg.ac.rs|approx
+University of Novi Pazar|Serbia|Novi Pazar|1501|5.5|43|65|2.5/4.0|1000|2000|unp.edu.rs|approx
+Union University|Serbia|Belgrade|1501|6.0|50|75|3.0/4.0|2500|4500|union.edu.rs|approx
+Metropolitan University|Serbia|Belgrade|1501|6.0|50|75|3.0/4.0|3000|5000|metropolitan.ac.rs|approx
+Alfa BK University|Serbia|Belgrade|1501|6.0|50|75|3.0/4.0|2000|4000|alfa.edu.rs|approx
+Educons University|Serbia|Novi Sad|1501|6.0|50|75|3.0/4.0|2000|3500|educons.edu.rs|approx
+University of Pristina in Kosovska Mitrovica|Serbia|Kosovska Mitrovica|1501|5.5|43|65|2.5/4.0|1000|2000|pr.ac.rs|approx
+University of Zadar|Croatia|Zadar|1501|6.0|50|75|3.0/4.0|2000|3500|unizd.hr|verified
+University of Pula|Croatia|Pula|1501|6.0|50|75|3.0/4.0|2000|3500|unipu.hr|approx
+University of Dubrovnik|Croatia|Dubrovnik|1501|6.0|50|75|3.0/4.0|2500|4000|unidu.hr|approx
+University of Applied Sciences Zagreb|Croatia|Zagreb|1501|6.0|50|75|3.0/4.0|2500|4500|tvz.hr|approx
+Algebra University College|Croatia|Zagreb|1501|6.0|50|75|3.0/4.0|4000|6000|algebra.hr|approx
+University of Slavonski Brod|Croatia|Slavonski Brod|1501|6.0|50|75|3.0/4.0|2000|3000|unsb.hr|approx
+University of Nova Gorica|Slovenia|Nova Gorica|1501|6.0|50|75|3.0/4.0|4000|7000|ung.si|verified
+Faculty of Information Studies in Novo Mesto|Slovenia|Novo Mesto|1501|6.0|50|75|3.0/4.0|3000|5000|fis.unm.si|approx
+European Faculty of Law|Slovenia|Nova Gorica|1501|6.0|50|75|3.0/4.0|3000|4500|evro-pf.si|approx
+GEA College|Slovenia|Ljubljana|1501|6.0|50|75|3.0/4.0|4000|6000|gea-college.si|approx
+International School for Social and Business Studies|Slovenia|Celje|1501|6.0|50|75|3.0/4.0|3000|5000|issbs.si|approx
+Slovak University of Agriculture in Nitra|Slovakia|Nitra|1201|6.0|50|75|3.0/4.0|2000|4000|uniag.sk|verified
+University of Zilina|Slovakia|Zilina|1401|6.0|50|75|3.0/4.0|2000|3500|uniza.sk|approx
+Trnava University|Slovakia|Trnava|1501|6.0|50|75|3.0/4.0|2000|3000|truni.sk|approx
+University of Economics in Bratislava|Slovakia|Bratislava|1001|6.0|50|75|3.0/4.0|2500|4000|euba.sk|approx
+Matej Bel University|Slovakia|Banska Bystrica|1401|6.0|50|75|3.0/4.0|2000|3500|umb.sk|approx

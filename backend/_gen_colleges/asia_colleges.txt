@@ -1,0 +1,45 @@
+Loyola College|India|Chennai||6.0|50|71|3.0/4.0|1500|3000|loyolacollege.edu|verified
+St. Xavier's College|India|Mumbai||6.0|50|71|2.5/4.0|1500|3000|xaviers.edu|verified
+Christ University|India|Bengaluru||6.0|50|71|2.5/4.0|2000|4000|christuniversity.in|verified
+Presidency College|India|Chennai||6.0|50|71|60%|1000|2500|presidencycollege.edu.in|approx
+Lady Shri Ram College for Women|India|New Delhi||6.5|53|79|2.5/4.0|1500|3000|lsr.edu.in|verified
+Taylor's College|Malaysia|Subang Jaya||6.0|50|71|2.5/4.0|6000|10000|taylors.edu.my|verified
+Sunway College|Malaysia|Subang Jaya||5.5|43|61|2.0/4.0|5000|9000|sunway.edu.my|verified
+INTI International College|Malaysia|Subang Jaya||5.5|43|61|2.0/4.0|4500|8500|inti.edu.my|verified
+HELP Academy|Malaysia|Kuala Lumpur||6.0|50|71|2.5/4.0|4000|8000|help.edu.my|approx
+Methodist College Kuala Lumpur|Malaysia|Kuala Lumpur||5.5|43|61|2.0/4.0|3000|6000|mckl.edu.my|approx
+Ngee Ann Polytechnic|Singapore|Singapore||6.0|50|71|2.5/4.0|8000|11000|np.edu.sg|approx
+Temasek Polytechnic|Singapore|Singapore||6.0|50|71|2.5/4.0|8000|11000|tp.edu.sg|approx
+Singapore Polytechnic|Singapore|Singapore||6.0|50|71|2.5/4.0|8000|12000|sp.edu.sg|approx
+Republic Polytechnic|Singapore|Singapore||6.0|50|71|2.5/4.0|8000|11000|rp.edu.sg|approx
+Kansai University of International Studies|Japan|Miki||5.5|43|61|2.0/4.0|9000|12000|kuins.ac.jp|approx
+Shibaura Institute of Technology|Japan|Tokyo||6.0|50|71|2.5/4.0|10000|14000|sit.ac.jp|verified
+Kanda University of International Studies|Japan|Chiba||6.0|50|71|2.5/4.0|7000|10000|kanda.kuis.ac.jp|verified
+Kyoto Institute of Technology|Japan|Kyoto||6.0|50|71|2.5/4.0|6000|10000|kit.ac.jp|approx
+Seoul Institute of the Arts|South Korea|Ansan||5.5|43|61|2.0/4.0|6000|10000|seoularts.ac.kr|approx
+Keimyung College University|South Korea|Daegu||5.5|43|61|2.0/4.0|5000|9000|kmcu.ac.kr|approx
+Korea Polytechnic University|South Korea|Siheung||5.5|43|61|2.0/4.0|4000|8000|kpu.ac.kr|approx
+Hanseo University|South Korea|Seosan||6.0|50|71|2.5/4.0|4000|7000|hanseo.ac.kr|approx
+Higher Colleges of Technology (Dubai)|UAE|Dubai||6.0|50|71|2.5/4.0|10000|14000|hct.ac.ae|verified
+Emirates College of Technology|UAE|Abu Dhabi||6.0|50|71|2.5/4.0|8000|12000|ect.ac.ae|approx
+University of Wollongong in Dubai|UAE|Dubai||6.5|53|79|2.5/4.0|15000|20000|uowdubai.ac.ae|verified
+Middlesex University Dubai|UAE|Dubai||6.5|53|79|2.5/4.0|16000|20000|mdx.ac.ae|verified
+Abu Dhabi University|UAE|Abu Dhabi||6.5|53|79|3.0/4.0|12000|18000|adu.ac.ae|verified
+Prince Sultan University|Saudi Arabia|Riyadh||6.0|50|71|2.5/4.0|12000|16000|psu.edu.sa|approx
+Effat University|Saudi Arabia|Jeddah||6.0|50|71|2.5/4.0|12000|17000|effatuniversity.edu.sa|approx
+Dar Al-Hekma University|Saudi Arabia|Jeddah||6.0|50|71|2.5/4.0|10000|15000|daralhekma.edu.sa|approx
+Forman Christian College|Pakistan|Lahore||6.0|50|71|60%|2000|4000|fccollege.edu.pk|verified
+Kinnaird College for Women|Pakistan|Lahore||6.0|50|71|2.5/4.0|1500|3000|kinnaird.edu.pk|verified
+Government College University Lahore|Pakistan|Lahore||6.0|50|71|2.5/4.0|1000|2500|gcu.edu.pk|approx
+Lahore University of Management Sciences|Pakistan|Lahore||6.5|53|79|3.0/4.0|8000|12000|lums.edu.pk|verified
+Bina Nusantara University|Indonesia|Jakarta||6.0|50|71|2.5/4.0|6000|10000|binus.ac.id|verified
+Telkom University|Indonesia|Bandung||5.5|43|61|2.0/4.0|4000|7000|telkomuniversity.ac.id|approx
+Petra Christian University|Indonesia|Surabaya||5.5|43|61|2.0/4.0|3000|5000|petra.ac.id|approx
+Stamford International University|Thailand|Bangkok||6.0|50|71|2.5/4.0|8000|12000|stamford.edu|verified
+Dhurakij Pundit University|Thailand|Bangkok||5.5|43|61|2.0/4.0|6000|10000|dpu.ac.th|approx
+Assumption University|Thailand|Bangkok||6.0|50|71|2.5/4.0|9000|14000|au.edu|verified
+Hong Kong Community College (PolyU)|Hong Kong|Hong Kong||6.0|50|71|2.5/4.0|10000|14000|hkcc-polyu.edu.hk|verified
+HKU SPACE Community College|Hong Kong|Hong Kong||6.0|50|71|2.5/4.0|10000|14000|hkuspace.hku.hk|verified
+City University of Hong Kong SCOPE|Hong Kong|Hong Kong||6.0|50|71|2.5/4.0|10000|15000|scope.edu|approx
+Beijing City University|China|Beijing||5.5|43|61|2.0/4.0|4000|7000|bcu.edu.cn|approx
+Sanda University|China|Shanghai||5.5|43|61|2.0/4.0|4000|8000|sandau.edu.cn|approx

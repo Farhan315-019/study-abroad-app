@@ -1,0 +1,30 @@
+Estonian Academy of Arts|Estonia|Tallinn||6.5|56|79|3.0/4.0|4000|6500|artun.ee|approx
+Estonian University of Life Sciences|Estonia|Tartu||6.0|50|72|3.0/4.0|4000|8000|emu.ee|verified
+Estonian Academy of Music and Theatre|Estonia|Tallinn||6.0|50|72|2.5/4.0|3500|7000|ema.edu.ee|approx
+Tallinn Health Care College|Estonia|Tallinn||5.5|43|60|2.5/4.0|4500|7000|ttk.ee|approx
+Estonian Entrepreneurship University of Applied Sciences|Estonia|Tallinn||6.0|50|72|3.0/4.0|3000|5000|eek.ee|approx
+Latvian Academy of Arts|Latvia|Riga||6.5|56|79|3.0/4.0|4500|7500|lma.lv|approx
+Latvian Academy of Music|Latvia|Riga||6.5|56|79|3.0/4.0|4500|8000|jvlma.lv|approx
+Latvia University of Life Sciences and Technologies|Latvia|Jelgava||6.0|50|72|3.0/4.0|3000|6000|lbtu.lv|verified
+Transport and Telecommunication Institute|Latvia|Riga||6.0|50|72|3.0/4.0|3000|5000|tsi.lv|approx
+Ventspils University of Applied Sciences|Latvia|Ventspils||6.0|50|72|2.5/4.0|2500|4500|venta.lv|approx
+Lithuanian University of Health Sciences|Lithuania|Kaunas|901|6.0|50|75|3.0/4.0|7000|10000|lsmuni.lt|verified
+ISM University of Management and Economics|Lithuania|Vilnius||6.0|50|75|3.0/4.0|5000|8000|ism.lt|approx
+Mykolas Romeris University|Lithuania|Vilnius||6.0|50|75|3.0/4.0|3000|6000|mruni.eu|approx
+Klaipeda University|Lithuania|Klaipeda||6.0|50|75|3.0/4.0|3000|5500|ku.lt|approx
+Lithuanian Sports University|Lithuania|Kaunas||5.5|43|60|2.5/4.0|4000|7000|lsu.lt|approx
+Vilnius University of Applied Sciences|Lithuania|Vilnius||6.0|50|75|3.0/4.0|3000|5000|viko.lt|approx
+Agricultural University of Tirana|Albania|Tirana||6.0|50|72|2.5/4.0|2000|4000|ubt.edu.al|verified
+Aleksander Moisiu University Durres|Albania|Durres||6.0|50|72|2.5/4.0|2000|3500|uamd.edu.al|approx
+Ismail Qemali University of Vlora|Albania|Vlore||6.0|50|72|2.5/4.0|1500|3000|univlora.edu.al|approx
+Polis University|Albania|Tirana||6.0|50|72|2.5/4.0|3000|5000|universitetipolis.edu.al|approx
+University of Tuzla|Bosnia and Herzegovina|Tuzla||6.0|50|72|2.5/4.0|2000|3500|untz.ba|verified
+University of Zenica|Bosnia and Herzegovina|Zenica||6.0|50|72|2.5/4.0|2000|3000|unze.ba|approx
+University of East Sarajevo|Bosnia and Herzegovina|East Sarajevo||6.0|50|72|2.5/4.0|2000|3500|ues.rs.ba|approx
+Sarajevo School of Science and Technology|Bosnia and Herzegovina|Sarajevo||6.5|56|79|3.0/4.0|5000|7000|ssst.edu.ba|approx
+Adriatic University Bar|Montenegro|Bar||6.0|50|72|2.5/4.0|2500|4000|univerzitetadriatik.com|verified
+Faculty of Management Herceg Novi|Montenegro|Herceg Novi||6.0|50|72|2.5/4.0|2000|3500|fm-hn.com|approx
+HEC Faculty|Montenegro|Budva||6.0|50|72|2.5/4.0|2500|4000|hecfakultet.com|approx
+FON University|North Macedonia|Skopje||6.0|50|72|2.5/4.0|2000|3500|fon.edu.mk|approx
+International Balkan University|North Macedonia|Skopje||6.5|56|79|3.0/4.0|3000|5000|ibu.edu.mk|verified
+University of Information Science and Technology St Paul the Apostle|North Macedonia|Ohrid||6.0|50|72|2.5/4.0|2500|4000|uist.edu.mk|approx

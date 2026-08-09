@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 120" fill="none">
+  <defs>
+    <linearGradient id="brandGradient" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2563EB" />
+      <stop offset="1" stop-color="#8B5CF6" />
+    </linearGradient>
+  </defs>
+  <rect width="360" height="120" fill="transparent" />
+  <g transform="translate(16 16)">
+    <path
+      d="M72 10 44 24v16c0 5.523 4.477 10 10 10h1v8c0 20.956 17.044 38 38 38 9.941 0 18-8.059 18-18V26c0-4.418-3.582-8-8-8H72Z"
+      fill="url(#brandGradient)"
+    />
+    <path
+      d="M72 18c-12.15 0-22 9.85-22 22s9.85 22 22 22c4.496 0 8.655-1.533 12-4.116V60c0 1.105-.895 2-2 2h-6.5c-1.45 0-2.76-.877-3.264-2.197l-1.165-3.495a2.505 2.505 0 0 0-2.425-1.808H60c-8.837 0-16-7.163-16-16s7.163-16 16-16h12c1.105 0 2-.895 2-2V20c0-1.105-.895-2-2-2H60Z"
+      fill="white"
+      opacity="0.94"
+    />
+    <path d="M84 26c0-1.105-.895-2-2-2H68c-1.105 0-2 .895-2 2v6h18v-6Z" fill="white" />
+    <path
+      d="M74.5 38.5 77 45.5l6.742.982c1.047.153 1.467 1.477.709 2.226l-4.88 4.756 1.208 6.97c.192 1.107-.975 1.954-1.962 1.434L74 58.2l-6.109 3.213c-.987.52-2.154-.327-1.962-1.434l1.208-6.97-4.88-4.756c-.758-.749-.338-2.073.709-2.226L68.5 45.5 71 38.5c.448-1.028 1.905-1.028 2.5 0Z"
+      fill="url(#brandGradient)"
+    />
+    <circle cx="104" cy="42" r="4" fill="white" opacity="0.88" />
+  </g>
+  <text x="140" y="56" font-family="Inter, system-ui, sans-serif" font-size="36" font-weight="700" fill="#0f172a">
+    GlobalEdu
+  </text>
+  <text x="320" y="56" font-family="Inter, system-ui, sans-serif" font-size="36" font-weight="700" fill="url(#brandGradient)">
+    .AI
+  </text>
+  <text x="140" y="87" font-family="Inter, system-ui, sans-serif" font-size="12" letter-spacing="0.24em" fill="#64748b">
+    GLOBAL STUDENT AI PLATFORM
+  </text>
+</svg>

@@ -1,0 +1,40 @@
+IIT Delhi|India|New Delhi|169|6.5|58|90|3.0/4.0|3000|6000|iitd.ac.in|verified
+IIT Madras|India|Chennai|225|6.5|58|90|3.0/4.0|3500|7000|iitm.ac.in|approx
+IIT Kharagpur|India|Kharagpur|281|6.5|58|90|3.0/4.0|3000|6000|iitkgp.ac.in|approx
+IIT Kanpur|India|Kanpur|278|6.5|58|90|3.0/4.0|3000|6500|iitk.ac.in|approx
+Indian Institute of Science|India|Bangalore|225|6.5|58|90|3.0/4.0|2000|4000|iisc.ac.in|approx
+BITS Pilani|India|Pilani|301|6.5|58|90|3.0/4.0|12000|15000|bits-pilani.ac.in|approx
+Jawaharlal Nehru University|India|New Delhi|601|6.5|58|90|60%+|1000|2000|jnu.ac.in|approx
+Jadavpur University|India|Kolkata|651|6.5|58|90|60%+|800|1500|jadavpuruniversity.in|approx
+Banaras Hindu University|India|Varanasi|701|6.5|58|90|60%+|1000|2000|bhu.ac.in|approx
+Aligarh Muslim University|India|Aligarh|751|6.5|58|90|55%+|1000|2500|amu.ac.in|approx
+Savitribai Phule Pune University|India|Pune|701|6.5|58|90|60%+|1500|3000|unipune.ac.in|approx
+VIT Vellore|India|Vellore|651|6.5|58|90|3.0/4.0|4000|8000|vit.ac.in|approx
+SRM Institute of Science and Technology|India|Chennai|751|6.5|58|90|3.0/4.0|4000|8000|srmist.edu.in|approx
+Lovely Professional University|India|Phagwara|801|6.5|58|90|3.0/4.0|3000|5000|lpu.in|approx
+Manipal Academy of Higher Education|India|Manipal|651|6.5|58|90|3.0/4.0|5000|9000|manipal.edu|approx
+Christ University|India|Bengaluru|801|6.5|58|90|60%+|3000|6000|christuniversity.in|approx
+Universitas Airlangga|Indonesia|Surabaya|401|6.0|50|80|3.0/4.0|2000|4000|unair.ac.id|verified
+IPB University|Indonesia|Bogor|451|6.0|50|80|3.0/4.0|2000|4000|ipb.ac.id|approx
+Institut Teknologi Sepuluh Nopember|Indonesia|Surabaya|401|6.0|50|80|3.0/4.0|2500|4500|its.ac.id|approx
+Padjadjaran University|Indonesia|Bandung|601|6.0|50|80|3.0/4.0|2000|3500|unpad.ac.id|approx
+Diponegoro University|Indonesia|Semarang|701|6.0|50|80|3.0/4.0|1500|3000|undip.ac.id|approx
+Telkom University|Indonesia|Bandung|751|5.5|43|70|3.0/4.0|2000|3500|telkomuniversity.ac.id|approx
+Universitas Sebelas Maret|Indonesia|Surakarta|751|6.0|50|80|3.0/4.0|1500|3000|uns.ac.id|approx
+Universitas Hasanuddin|Indonesia|Makassar|751|6.0|50|80|3.0/4.0|1500|3000|unhas.ac.id|approx
+Udayana University|Indonesia|Denpasar|801|6.0|50|80|3.0/4.0|1500|3000|unud.ac.id|approx
+Universitas Negeri Jakarta|Indonesia|Jakarta|901|5.5|43|70|3.0/4.0|1500|2500|unj.ac.id|approx
+King Mongkut's University of Technology Thonburi|Thailand|Bangkok|351|6.0|50|80|3.0/4.0|4000|7000|kmutt.ac.th|verified
+Chiang Mai University|Thailand|Chiang Mai|571|6.0|50|80|3.0/4.0|4000|7000|cmu.ac.th|approx
+Prince of Songkla University|Thailand|Hat Yai|701|6.0|50|80|3.0/4.0|3500|6000|psu.ac.th|approx
+Khon Kaen University|Thailand|Khon Kaen|701|6.0|50|80|3.0/4.0|3500|6000|kku.ac.th|approx
+King Mongkut's Institute of Technology Ladkrabang|Thailand|Bangkok|801|6.0|50|80|3.0/4.0|4000|6500|kmitl.ac.th|approx
+Srinakharinwirot University|Thailand|Bangkok|801|6.0|50|80|3.0/4.0|3500|6000|swu.ac.th|approx
+Burapha University|Thailand|Chonburi|901|5.5|43|70|3.0/4.0|3000|5000|buu.ac.th|approx
+Naresuan University|Thailand|Phitsanulok|901|5.5|43|70|3.0/4.0|3000|5000|nu.ac.th|approx
+Hong Kong Polytechnic University|Hong Kong|Kowloon|57|6.5|58|90|3.0/4.0|20000|30000|polyu.edu.hk|verified
+Hong Kong Baptist University|Hong Kong|Kowloon Tong|251|6.5|58|90|3.0/4.0|16000|24000|hkbu.edu.hk|approx
+Lingnan University|Hong Kong|Tuen Mun|601|6.0|50|80|3.0/4.0|15000|20000|ln.edu.hk|approx
+Education University of Hong Kong|Hong Kong|Tai Po|501|6.0|50|80|3.0/4.0|14000|18000|eduhk.hk|approx
+Hong Kong Metropolitan University|Hong Kong|Kowloon|701|6.0|50|80|3.0/4.0|12000|18000|hkmu.edu.hk|approx
+Hang Seng University of Hong Kong|Hong Kong|Shatin|801|6.0|50|80|3.0/4.0|13000|17000|hsu.edu.hk|approx

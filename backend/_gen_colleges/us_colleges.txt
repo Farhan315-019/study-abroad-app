@@ -1,0 +1,40 @@
+Santa Monica College|USA|Santa Monica||5.5|45|61|2.0/4.0|9000|12000|smc.edu|approx
+De Anza College|USA|Cupertino||5.5|45|61|2.0/4.0|9000|11000|deanza.edu|approx
+Miami Dade College|USA|Miami||5.5|45|61|2.0/4.0|8000|11000|mdc.edu|approx
+Pasadena City College|USA|Pasadena||5.5|45|61|2.0/4.0|8000|10000|pasadena.edu|approx
+Foothill College|USA|Los Altos Hills||5.5|45|61|2.0/4.0|9000|11000|foothill.edu|approx
+Diablo Valley College|USA|Pleasant Hill||5.5|45|61|2.0/4.0|7000|9500|dvc.edu|approx
+City College of San Francisco|USA|San Francisco||5.5|45|61|2.0/4.0|6000|9000|ccsf.edu|approx
+Lone Star College|USA|The Woodlands||5.5|45|61|2.0/4.0|6500|9500|lonestar.edu|approx
+Valencia College|USA|Orlando||5.5|45|61|2.0/4.0|8000|11000|valenciacollege.edu|approx
+Harper College|USA|Palatine||5.5|45|61|2.0/4.0|10000|14000|harpercollege.edu|approx
+Austin Community College|USA|Austin||5.5|45|61|2.0/4.0|8000|12000|austincc.edu|approx
+Montgomery College|USA|Rockville||5.5|45|61|2.0/4.0|9000|13000|montgomerycollege.edu|approx
+Dallas College|USA|Dallas||5.5|45|61|2.0/4.0|5000|8500|dallascollege.edu|approx
+Cuyahoga Community College|USA|Cleveland||5.5|45|61|2.0/4.0|4000|6000|tri-c.edu|approx
+Williams College|USA|Williamstown||7.0|68|100|3.5/4.0|60000|70000|williams.edu|verified
+Amherst College|USA|Amherst||7.0|68|100|3.5/4.0|60000|70000|amherst.edu|verified
+Swarthmore College|USA|Swarthmore||7.0|68|100|3.5/4.0|60000|70000|swarthmore.edu|verified
+Pomona College|USA|Claremont||7.0|68|100|3.5/4.0|58000|68000|pomona.edu|verified
+Wellesley College|USA|Wellesley||7.0|68|100|3.5/4.0|58000|68000|wellesley.edu|verified
+Bowdoin College|USA|Brunswick||7.0|68|100|3.5/4.0|58000|68000|bowdoin.edu|verified
+Carleton College|USA|Northfield||7.0|68|100|3.5/4.0|58000|68000|carleton.edu|verified
+Middlebury College|USA|Middlebury||7.0|68|100|3.5/4.0|60000|70000|middlebury.edu|verified
+Claremont McKenna College|USA|Claremont||7.0|68|100|3.5/4.0|60000|70000|cmc.edu|verified
+Vassar College|USA|Poughkeepsie||7.0|68|100|3.5/4.0|60000|70000|vassar.edu|verified
+Davidson College|USA|Davidson||7.0|68|100|3.5/4.0|55000|65000|davidson.edu|approx
+Haverford College|USA|Haverford||7.0|68|100|3.5/4.0|58000|68000|haverford.edu|verified
+Colby College|USA|Waterville||7.0|68|100|3.5/4.0|60000|70000|colby.edu|verified
+Hamilton College|USA|Clinton||7.0|68|100|3.5/4.0|60000|70000|hamilton.edu|verified
+Bates College|USA|Lewiston||7.0|68|100|3.5/4.0|60000|70000|bates.edu|verified
+Wentworth Institute of Technology|USA|Boston||6.5|53|79|3.0/4.0|38000|45000|wit.edu|verified
+Rochester Institute of Technology|USA|Rochester||6.5|53|80|3.0/4.0|45000|55000|rit.edu|verified
+Stevens Institute of Technology|USA|Hoboken||7.0|60|86|3.5/4.0|50000|58000|stevens.edu|approx
+Florida Polytechnic University|USA|Lakeland||6.5|53|79|3.0/4.0|18000|22000|floridapoly.edu|approx
+New Jersey Institute of Technology|USA|Newark||6.5|53|79|3.0/4.0|28000|34000|njit.edu|verified
+California Polytechnic State University|USA|San Luis Obispo||6.5|53|80|3.5/4.0|25000|30000|calpoly.edu|verified
+Virginia Tech|USA|Blacksburg||6.5|53|80|3.0/4.0|32000|38000|vt.edu|verified
+Oregon Institute of Technology|USA|Klamath Falls||6.0|50|71|2.5/4.0|15000|25000|oit.edu|approx
+Worcester Polytechnic Institute|USA|Worcester||6.5|53|90|3.0/4.0|50000|58000|wpi.edu|verified
+Georgia Institute of Technology|USA|Atlanta||7.0|53|95|3.5/4.0|33000|38000|gatech.edu|verified
+California Institute of Technology|USA|Pasadena||7.0|65|100|3.5/4.0|50000|58000|caltech.edu|verified
